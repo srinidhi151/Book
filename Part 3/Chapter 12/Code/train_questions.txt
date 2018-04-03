@@ -1,0 +1,3001 @@
+Id, Question
+1, What do West Indian steel bands use as instruments ?
+2, Is there any top medical universities in Ukraine?
+3, Who was the prophet of the Jewish people ?
+4, How tall is the replica of the Matterhorn at Disneyland ?
+5, How tall was the animated Frankenstein
+6, What is form drag ?
+7, Why does turkey have darker  more flavorful dark meat than chicken?
+8, Does CMFB  stand for Committee on monetary  finance and balance of payments statistics?
+9, Where is Ocho Rios ?
+10, What is the population of Australia ?
+11, What is the second highest mountain peak in the world ?
+12, Why do some people believe that life ends at death?
+13, Is there anyone else who thinks Star Wars is overrated?
+14, When was Rosa Parks born ?
+15, Don't tourists like to visit Barretos ?
+16, Which is the worst place to go in  Eindhoven ?
+17, What is the name of the rare neurological disease with symptoms such as   involuntary movements   tics   swearing   and incoherent vocalizations   grunts   shouts   etc. ?
+18, What was the sister ship of the Olympic ?
+19, Doesn't EXP  stand for Export?
+20, Doesn't RE  stand for Retained Earnings?
+21, What is a courier ?
+22, What is the scientific reason behind visiting temples?
+23, What causes canker sores in the mouth ?
+24, Does ASCEPT  mean Australasian Society of Clinical & Experimental Pharmacologists and Toxicologists?
+25, Is she an artist or a scientist?
+26, What city is the Kentucky Horse Park near ?
+27, What are the chances of pregnacy if the penis does not penetrate the vagina ?
+28, Which is the best place to go in Darbhanga ?
+29, What cancer is commonly associated with AIDS ?
+30, What is the statue of liberty made of ?
+31, What are perfect tenses ?
+32, What European country 's monarchy was restored in 1975 ?
+33, How many languages does the Pope speak ?
+34, Does RFP  stand for Request for Proposal?
+35, Which is the highest fraction we can get using at most 10 zeros?
+36, Is Gayle Laakmann McDowell planning on publishing any more books?
+37, What is glass made of ?
+38, When was the first stained glass window made ?
+39, What does a dipsomaniac crave ?
+40, In what year did Ireland elect its first woman president ?
+41, Is Dongyang  the capital of China?
+42, Is there cure for HIV?
+43, What explorer was nicknamed Iberia 's Pilot ?
+44, Who developed the Macintosh computer ?
+45, What is x + y + z if all are least even integers?
+46, In your opinion  what is the best classical song of all time?
+47, What was the previous name for the Commonwealth ?
+48, Which is the greatest fraction we can get using at most 10 ones?
+49, What is power steering ?
+50, How important is the role of TPM at Amazon?
+51, Is there not a way to find my iCloud password without security questions if forgotten password?
+52, Don't tourists like to visit Anchorage ?
+53, Which ear can most people hear better with ?
+54, Is there not any way to get rid of gynecomastia?
+55, Where is the tallest roller coaster located ?
+56, What radio station did Paul Harvey work for ?
+57, What is pandoro ?
+58, Is that woman a convict?
+59, Is there any way to view the person's profile if you have their username on Snapchat without adding that person to friends?
+60, Isn't Barcelona  the capital of Spain?
+61, Does NA  mean Narcotics Anonymous?
+62, Which PC can run Assassin's Creed Syndicate and GTA V?
+63, Who started the Dominos Pizza chain ?
+64, Which is the largest numeral we can get using at most 10 sixes?
+65, Who is Mia Farrow 's mother ?
+66, What are emblazoned on the Jolly Roger ?
+67, Is that woman not a celebrity?
+68, What is the highest amount that can be got by using exactly 5 sevens?
+69, Is there a cure for cancer?
+70, How do I find out about jobs ?
+71, Isn't Fort Lauderdale  the capital of United States?
+72, Do tourists like to visit Amiens ?
+73, What disease is transmitted by the Anopheles mosquito ?
+74, Is there not an alternative to Excel tables in Google Sheets?
+75, Where is Natchitoches   Louisiana ?
+76, Is there not any scope to join NASA for an Indian student who has a B.Tech (ME) degree from any UGC recognized university?
+77, Who invented Trivial Pursuit ?
+78, What colors need to be mixed to get the color pink ?
+79, How big is Australia ?
+80, Doesn't UDC  mean University Disability Consortium?
+81, What ice creams contain seaweed ?
+82, Who was the first US President to ride in an automobile to his inauguration ?
+83, Which is the minimum number we can get using at most 10 zeros?
+84, Who delivered his last newscast on March 6   1981 ?
+85, Is there not any good website/tutorial for learning JMeter for free?
+86, Why do rooftops give off steam after a big rainstorm ?
+87, How long was the longest sneezing attack ?
+88, What 's the name of the temple that is located near the capital city of Laos ?
+89, Is there not any negative calorie food?
+90, What is the history of the soft drink Mr. Pibb ?
+91, Who awarded The Flying Fickle Finger of Fate ?
+92, What Japanese manufacturer is known for both its pianos and its motorcycles ?
+93, What is Spumante ?
+94, What are some of the most gruesome causes of death?
+95, Which is the smallest number we can get using at most 10 fours?
+96, Where are 8 of the 10 highest mountains in the world ?
+97, What is the maximum numeral that can be got by using exactly 5 sevens?
+98, What is ERP ?
+99, What New York Yankee was known as The Iron Horse ?
+100, Doesn't Akron  lie in United States?
+101, What is the maximum number that can be got by using exactly 5 fours?
+102, How many wives did Brigham Young have ?
+103, Doesn't Bettiah  belong to India?
+104, Is there not a way to retrieve deleted browsing history on Google Chrome?
+105, Is Baoji  the capital of China?
+106, How is the element strontium purified ?
+107, How long does cocaine stay in your system ?
+108, Does CPI  mean Consumer Price Index?
+109, Which mountain range in North America stretches from Maine to Georgia ?
+110, Is there not a way to get a user's full profile picture through the Twitter API?
+111, Who earns their money the hard way ?
+112, Doesn't Akashi  lie in Japan?
+113, How many small businesses are there in the U.S .
+114, Is that girl a doctor or a celebrity?
+115, Is it healthy to eat egg whites every day?
+116, What are the components of polyester ?
+117, What is the origin of head lice ?
+118, Who seized power from Milton Obote in 1971 ?
+119, What is a portal ?
+120, Is there not an equivalent underlying power structure in the USA similar to how many Asian companies are controlled by a previously existing class system (samurai in Japan  powerful families in both Korea and Philippines)?
+121, Name a Sioux language .
+122, Is there not any possibility that Quora will be banned from being used in China?
+123, What is the brightest star ?
+124, Is there not a country where torrents are legal?
+125, Do tourists like to visit Cadiz City ?
+126, Doesn't Fatehpur  belong to India?
+127, Which city in Canada is the least-populated ?
+128, Where is the biggest bell ?
+129, Doesn't CFM  mean Certified Financial Manager?
+130, Is there not is any good essay on demonetization in India?
+131, What is a fear of trees ?
+132, What did Andy Hardy 's father do for a living ?
+133, What flower did Vincent Van Gogh paint ?
+134, What does Inuit and Eskimo mean ?
+135, How many feet in a mile ?
+136, What 12-hour cold medicine uses the formula `` 6   6   12 '' in its ads ?
+137, What are amicable numbers ?
+138, Which is the minimum numeral we can get using at most 10 fives?
+139, What is the root of all evil ?
+140, What is the biggest number that can be got by using exactly 5 zeros?
+141, What is the definition of spamming ?
+142, Is that boy an architect or a machine learning professional?
+143, What is an example of an actual case of using the Fourteenth Amendment ?
+144, Do tourists like to visit Biratnagar ?
+145, What 's the first day of the week ?
+146, What was Paul Bunyan 's ox 's name ?
+147, Is there not any point in doing army ROTC in college if I'm not going into the military?
+148, What do you need to start your own private equity firm?
+149, How many cards is each player dealt in Contract Bridge ?
+150, How is it correct to say ` qigong ' ?
+151, How do you measure the heat of the sun ?
+152, Is there not a tendency to gravitate toward conspiracy theories on RT News?
+153, Is there not any other way to get into VIT?
+154, Is there a black hole in the center of our galaxy?
+155, Is there an economical way to travel from Szczecin to Poznan?
+156, What is the biggest integer that can be got by using exactly 5 nines?
+157, What is the largest numeral that can be got by using exactly 5 sixes?
+158, Is that gentleman an engineer?
+159, Which is the highest numeral we can get using at most 10 sixes?
+160, What city 's airport is named Logan International ?
+161, Is she a doctor?
+162, What is the maximum sum that can be got by using exactly 5 fives?
+163, Does CAR  mean Canadian Association of Radiologists?
+164, How many horses are there on a polo team ?
+165, Do tourists like to visit Amravati ?
+166, Is that gentleman an engineer or a carpenter?
+167, What product on the market is good for hiding facial scars ?
+168, Is there not anybody who was cured of Diabetes?
+169, Is there any IT company in Germany which directly hire experienced employees from India?
+170, Isn't Dongying  the capital of China?
+171, What is the difference between pop music and rock and roll ?
+172, Is there really a plot by the Illuminati totake over the world?
+173, In what sport are these following numbers relevant   118   126   134   142   15   158   167   177   and 19 ?
+174, Is that youth an artist or a convict?
+175, Isn't Cherkasy  the capital of Ukraine?
+176, When was Ulysses S. Grant born ?
+177, Is Buenaventura  the capital of Colombia?
+178, What are some of Australia 's native flora ?
+179, Doesn't ASCEPT  stand for Australasian Society of Clinical & Experimental Pharmacologists and Toxicologists?
+180, Where can I get a photograph of professor Randolph Quirk ?
+181, How can you tell when figs are ripe ?
+182, How do you send a movie transcript to Hollywood so that it can be produced into a film ?
+183, What countries earn the most from tourism ?
+184, How many quarts of whole milk is needed to make one pound of butter ?
+185, How many flavors does Baskin & Robbins offer ?
+186, What do meteorologists do ?
+187, What foods contain the most protein ?
+188, What actress starred in `` The Lion in Winter '' ?
+189, Does Carrefour  lie in Haiti?
+190, When did the Battle of Agincourt happen?
+191, Doesn't CISA  stand for Certified Information Systems Auditor?
+192, Is there not a way to get deleted Instagram pictures from someone else's profile back?
+193, Does NRAEMT  mean National Registry Advanced Emergency Medical Technician (NRAEMT)?
+194, What is the smallest numeral that can be got by using exactly 5 zeros?
+195, Where can I get quality services for cleaning paint and paint removal in Chatswood?
+196, When did humans first begin to write history seriously ?
+197, Is there any serverfor NodeJS?
+198, How do you say 2 in Latin ?
+199, How did the Hohenzollerns build their power around 17 ?
+200, What is the maximum numeral that can be got by using exactly 5 zeros?
+201, Who was the accused in The Trial of the Century   which opened Janurary 1   1935 ?
+202, Are we heading toward World War 3?
+203, How can I determine the radius of an ellipse ?
+204, Why are electric cars less efficient in the northeast than in California ?
+205, What is AHA ?
+206, Is there not any chance of World War III?
+207, Doesn't CPhT  mean Certified pharmacy technician?
+208, Who is the Prophet of Medina ?
+209, Is that boy a scientist?
+210, What is celebrated during the week of February 21-27 ?
+211, Is she an engineer or an architect?
+212, What is the average age a horse lives ?
+213, What is office automation ?
+214, How many times can a nickel-cadmium rechargeable battery be recharged ?
+215, Doesn't Bucheon  belong to South Korea?
+216, Which is the worst place to go in  Chonburi ?
+217, Is there not a way to use stem cells to grow your penis larger?
+218, How many American soldiers are stationed in South Korea ?
+219, What Broadway show introduced the song Some Enchanted Evening ?
+220, When do you plant winter wheat ?
+221, Does AMA  mean American Medical Association?
+222, What is Corp. ?
+223, Which free online language classes would allow me to go from 0 to fluent in Portuguese given their provided courses of study?
+224, What state is the Filenes store located in ?
+225, Is there not significance in the fact that Jesus died at age 33?
+226, Is that person an engineer or a machine learning professional?
+227, Who invented the toothbrush ?
+228, Doesn't AOA  mean Australian Orthopaedic Association?
+229, Is that gentleman an architect or a celebrity?
+230, Is there not any way to turn off my WhatsApp while my data pack is on?
+231, What is the fine for having a dog on a beach ?
+232, What is the biggest numeral that can be got by using exactly 5 ones?
+233, What is the largest number that can be got by using exactly 5 fives?
+234, How many people died because of a smoking problem in 1997 ?
+235, What is LMDS ?
+236, Is there an app to support 4G in 3G mobile?
+237, Is there any way to get a user's email address through Twitter OAuth API?
+238, Does C&F  mean Cost With Freight?
+239, What 's the most powerful card in Euchre ?
+240, Does Bakersfield  belong to United States?
+241, What is the best way to prepare to IELTS?
+242, Why is C the best programming language?
+243, Is there not a way I can see what my friend has been liking on Facebook?
+244, Don't tourists like to visit Durham ?
+245, Is Costa Mesa  the capital of United States?
+246, What is the largest integer that can be got by using exactly 5 zeros?
+247, Which is the least sum we can get using at most 10 threes?
+248, How many languages are there in the world ?
+249, Who invented Astroturf ?
+250, How do get out of Quora?
+251, What is Tetrinet ?
+252, What is the origin of the word Ozymandias ?
+253, Is that man an artist?
+254, Is that lady not a scientist?
+255, Is there not proof that Jesus is alive?
+256, Doesn't NREMT  stand for National Registry of Emergency Medical Technicians(ORG)?
+257, Is Banjarmasin  the capital of Indonesia?
+258, What is color ?
+259, What is a biologist ?
+260, Is that youth an engineer or a sportsperson?
+261, Does CEO  mean Chief executive officer?
+262, What does the name Shawn mean ?
+263, What word occurs 46   227 times in the Bible ?
+264, Doesn't ASPS  mean American Society of Plastic Surgeons?
+265, What 's the fifth-largest country in the world ?
+266, Which is the largest sum we can get using at most 10 nines?
+267, What Scottish poet penned To a Mouse and To a Louse ?
+268, Rotary engines used to be made by whom ?
+269, Doesn't Albury-Wodonga  belong to Australia?
+270, How do you write a correct critical analysis of a poem ?
+271, What happens to used motor oil ?
+272, Does CRM  mean Customer Relationship Management?
+273, Why is the soul immortal?
+274, What city 's the kickoff point for climbs of Mount Everest ?
+275, Isn't Bihar Sharif  the capital of India?
+276, How has TV affected our society ?
+277, How many minutes were there on the original GE College Bowl clock ?
+278, What is it that walks on four legs   then on two legs   then on three ?
+279, Doesn't COG  stand for Children's Oncology Group]]?
+280, Is there a contest for video game ideas?
+281, Which is the greatest number we can get using at most 10 sixes?
+282, What 's the proud claim to fame of the young women who formed Kappa Alpha Theta ?
+283, What are all the different types of pizza ?
+284, Where can I buy best quality commercial innerspring sofa bed in Chatswood West?
+285, Who wrote The Red Badge of Courage ?
+286, Doesn't ACR  mean American College of Radiology?
+287, What is the highest amount that can be got by using exactly 5 fours?
+288, Is there not a book that changed your life?
+289, Which is the worst place to go in  Bologna ?
+290, What's the funniest highbrow joke you've ever heard?
+291, Which is the minimum amount we can get using at most 10 nines?
+292, What did John F. Kennedy consider his greatest blunder in office ?
+293, Is there not any good reason to eat milk chocolate bar?
+294, What 's a perfect score in a gymnastics exercise ?
+295, Doesn't CAG  stand for Canadian Association of Gerontology?
+296, Is there any way to easily and correctly identify adulteration in milk?
+297, Which is less healthy for your body  beer or Pepsi?
+298, Which police department made the all-time biggest cocaine bust in Ventura County ?
+299, Doesn't SIOP  mean International Society of Paediatric Oncology?
+300, Which is the largest amount we can get using at most 10 zeros?
+301, Doesn't CFD  mean Contract for difference?
+302, Who portrayed The Cowardly Lion in The Wizard of Oz ?
+303, What 's the meaning of the zoological term ruminant ?
+304, For what reason did the Shea & Gould law firm close their L.A. office ?
+305, What do you have to do to become an airline pilot?
+306, Is there not any scholarship for MBA students belonging to general category in India?
+307, What are super balls made of ?
+308, What is the meaning of the name Ella ?
+309, What is the minimum sum that can be got by using exactly 5 threes?
+310, What is the smallest number that can be got by using exactly 5 nines?
+311, How long does a fly live ?
+312, Does ASRT  mean American Society of Radiologic Technologists?
+313, Where can I find a case on Individuals with Disabilities Education Act of 1991 ?
+314, Isn't Burgas  the capital of Bulgaria?
+315, What is the largest amount that can be got by using exactly 5 zeros?
+316, Doesn't Changshi  belong to China?
+317, What planet did Percival Lovell discover ?
+318, The name of the actor who played the detective in the film Kindergarden Cop is what ?
+319, Who manufactures the software   `` PhotoShop '' ?
+320, Who portrayed Etta Place   companion to Butch Cassidey and the Sundance Kid ?
+321, Which is the maximum fraction we can get using at most 10 nines?
+322, How did Super President gain his powers on the animated series ?
+323, Is that person a doctor or an artist?
+324, What are the names of all the U.S. Navy aircraft carriers ?
+325, What molecules include fluorine   sodium and magnesium ?
+326, Doesn't RFP  stand for Request for Proposal?
+327, Doesn't ANF  stand for Australian Nursing Federation?
+328, Who does Shakespeare 's Antonio borrow 3   0 ducats from ?
+329, How many people die from snakebite poisoning in the U.S. per year ?
+330, Isn't Cotonou  the capital of Benin?
+331, Is there any possible way to earn money without investment?
+332, What country is the world 's largest importer of cognac ?
+333, Which is the largest sum we can get using at most 10 fives?
+334, Doesn't Asaka  belong to Japan?
+335, What country 's northernmost city is Darwin ?
+336, About how many soldiers died in World War II ?
+337, When was CNN 's first broadcast ?
+338, What is APN ?
+339, Don't tourists like to visit Amsterdam ?
+340, Which is the smallest sum we can get using at most 10 fours?
+341, Is that man an architect or a carpenter?
+342, What was Edward Albee 's first full-length play ?
+343, Does RCP  stand for Royal College of Physicians?
+344, What are the living conditions in Cuba ?
+345, What stringed weapon fires a bolt ?
+346, Is there not any way to use lightening as electricity in our homes  offices etc?
+347, Does ACR  mean American College of Rheumatology?
+348, Is there not proof of alien life form?
+349, Is there any way I can know the flow of people traveling (at least on airplane) in the last years from country X to country Y?
+350, Who was the first Holy Roman Emperor ?
+351, What are the best schools in the world to study cinema?
+352, What brand of jeans did Calvin Klein admit in a 1984 interview he felt more comfortable wearing ?
+353, Is Athens  the capital of Greece?
+354, What building appropriately enough is depicted on the back of the 1-dollar bill ?
+355, What country is located at 13 degrees North latitude and 10 degrees East longitude ?
+356, Does SIOP  mean International Society of Paediatric Oncology?
+357, What amount of folic acid should an expectant mother take daily ?
+358, Does RR  stand for Resource rent?
+359, Who is the prophet that is most connected to the Dead Sea ?
+360, When did Thatcher become prime minister ?
+361, What is the size of the largest akita ?
+362, Who invented the road traffic cone ?
+363, Is there any accounting software that I can use to manage a startup finance?
+364, How do plants make food ?
+365, Why do digital cameras have shutter sound?
+366, What attorneys work for The Center for the Defense of Free Enterprise ?
+367, Why were people recruited for the Vietnam War ?
+368, What powdered soft drink mix went into space ?
+369, What will a kid eat the middle of   and save the chocolate on the outside for last ?
+370, Who starred in Singing in the Rain and The Singing Nun ?
+371, What is the smallest numeral that can be got by using exactly 5 fives?
+372, What is the capital of Uruguay ?
+373, What is a good song for lyric prank?
+374, What was the name of the famous battle between Texas and Mexico ?
+375, What is CFO PEX ?
+376, Is that youth an engineer or a celebrity?
+377, When do MORMONS believe Christ was born ?
+378, What is a female rabbit called ?
+379, What kind of tree graces Lebanon 's flag ?
+380, Is there a universal ATM card that allows you to withdraw cash from all banks in the world?
+381, Where did the marriage ceremony come from ?
+382, What is the shape of a football as stated in the NFL rulebook ?
+383, Is he a doctor or a celebrity?
+384, What is the history of Buffalo chicken wings ?
+385, What is artificial intelligence ?
+386, Is there any need for reservation in India?
+387, Does CAP  mean Canadian Association of Physicists?
+388, During rain what should I do for precautions of flooding road?
+389, Is there not a website where I can sell gift cards for PayPal w/o credit card?
+390, Is there a currently evolving tendency towards nasty  trashy behavior in sports?
+391, What are the odds of giving birth to twins ?
+392, What musical instrument did Sherlock Holmes play ?
+393, Is there a free publicly-accessible artificial intelligence interface?
+394, Who is the tallest man in the world ?
+395, Is there not a significant difference between 16-bit and 24-bit in audio accessories?
+396, What is the greatest amount that can be got by using exactly 5 twos?
+397, Is there any online source to learn Urdu?
+398, Is that girl an architect?
+399, What is the chromosome number of an elephant ?
+400, How do you match a name to a social security number ?
+401, Which German president was pressured into appointing Hitler chancellor in 1933 ?
+402, Is there not a black hole in the center of our galaxy?
+403, What was the 1940 annual salary for a boilermaker ?
+404, When was the slinky invented ?
+405, Who was the 22nd President of the US ?
+406, What six words follow the line   `` From a jack to a king.. . '' ?
+407, Which one to learn  C++ or C#?
+408, What 's the most delicate-tasting member of the onion family ?
+409, Isn't Dortmund  the capital of Germany?
+410, What racehorse won an Associated Press poll as the greatest horse of the 20th century ?
+411, What is Linux ?
+412, What exactly is the purpose of the anteater ?
+413, Why are there letters on the telephone ?
+414, What do Japanese school uniforms look like ?
+415, What are the safety precautions on handling shotguns proposed by the NRA in Arizona?
+416, What is the least number that can be got by using exactly 5 eights?
+417, What is the smallest sum that can be got by using exactly 5 zeros?
+418, Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ?
+419, Where can I find a website that gives comparisons of good prices ?
+420, What is NEJM ?
+421, Who famously rode to warn the people of Massachusetts that the British were coming ?
+422, What is the best accordion for beginners to learn on?
+423, What is an obtuse angle ?
+424, Is she a machine learning professional?
+425, Do tourists like to visit Chifeng ?
+426, Which is the smallest amount we can get using at most 10 eights?
+427, Doesn't AWHONN  mean Association of Women's Health  Obstetric and Neonatal Nurses?
+428, Doesn't Concord  belong to United States?
+429, Who is the Antichrist ?
+430, Is there a Drug and Alcohol Rehab Center in Anchorage County AK?
+431, What are the different types of plastic ?
+432, Is there not any chance of enquiry from IT Department if housewife deposit Rs 2 lakh in her Jan Dhan account or dormant account with no income?
+433, What corporation does Madonna advertise for ?
+434, What is the length of the coastline of the state of Alaska ?
+435, Isn't Drobeta-Turnu Severin  the capital of Romania?
+436, Who wrote NN DT NNP NNP '' ?
+437, Is he a carpenter or a sportsperson?
+438, What is titanium ?
+439, How did the Great Depression affect Japan 's history ?
+440, Is there a Quora alternative for Fiscal Conservatives like myself?
+441, Which is the largest fraction we can get using at most 10 ones?
+442, Where can one find information on religion and health   the brain and nutrition ?
+443, Doesn't ECGC  stand for Export Credit Guarantee Corporation of India?
+444, What football coach 's story was told in the movie Run to Daylight ?
+445, What is ozone depletion ?
+446, What does cc in engines mean ?
+447, How many months does a normal human pregnancy last ?
+448, What is the greatest amount that can be got by using exactly 5 sixes?
+449, What's the next number in the series 1 1 1 2 2 2 6 6 6?
+450, What is the capital of Seattle ?
+451, Does CAMTS  stand for Commission on Accreditation of Medical Transport Systems?
+452, Is there not a possibility that the planets in the solar system will fall into the sun eventually?
+453, What German city do Italians call The Monaco of Bavaria ?
+454, What country is the setting for Edgar Allan Poe 's The Pit and the Pendulum ?
+455, In what ways did Ivan IV support Russian expansion ?
+456, What is the nickname of the Cleveland Indians ?
+457, Is there any way to purchase a phone on EMI via Flipkart with only a debit card?
+458, Don't tourists like to visit Chiniot ?
+459, Where can I get information on the original 13 US colonies ?
+460, Doesn't NA  stand for Narcotics Anonymous?
+461, What does the name Jenna mean ?
+462, What Jewish holiday saw the start of the 1973 Mideast War ?
+463, Where is Ayer 's rock ?
+464, Doesn't ABMS  mean American Board of Medical Specialties?
+465, Why India does not have friendly relations with it's neighbouring countries?
+466, What college enlivens Hanover   New Hampshire ?
+467, What was the name of the 1899 policy forced on China by which all nations had equal trading rights ?
+468, Does AHA  stand for American Heart Association?
+469, What excuse did the NATO people give for hitting the Chinese embassy ?
+470, Is there any good cab service available in London?
+471, What animal has the biggest eyes ?
+472, How does a scientific calculator work ?
+473, Where is John Wayne airport ?
+474, Does EFTPOS  stand for Electronic Funds Transfer at Point of Sale?
+475, What is real time processing ?
+476, What do Christian Scientists believe in ?
+477, Doesn't Clearwater  lie in United States?
+478, Name a ballet company Mikhail Baryshnikov has danced for ?
+479, What is the English translation for the word `` caliente '' ?
+480, Is that girl a doctor or a carpenter?
+481, Doesn't ASPS  stand for American Society of Plastic Surgeons?
+482, Which is the biggest amount we can get using at most 10 sixes?
+483, What are the major companies that are part of Dow Jones ?
+484, Is there not a website or forum where I can post  view  and discuss user created content?
+485, Is there any proof or evidence of alien / extraterrestrial life existence?
+486, What handicraft requires you to interlace your warp and weft ?
+487, What does the abbreviation AIDS stand for ?
+488, Is there any ETF for artificial intelligence or robots industry?
+489, Is there not an equivalent act or law to the Equal Pay Act of 1963 (of the United States) in Canada?
+490, Is that boy an engineer or a carpenter?
+491, Is there really very little way an international student can get financial aid when applying to a US college?
+492, How do ants have sex ?
+493, What disease does Katharine Hepburn have that makes her voice shake ?
+494, What do I need to do to take my dog with me to live in Dominica   West Indies for a year ?
+495, Which is the biggest integer we can get using at most 10 twos?
+496, Who was Maria Theresa ?
+497, Is Atlanta  the capital of United States?
+498, Who is Imam Hussain Ben Ali whom Shia people believe in ?
+499, What mammal of North America is the world 's longest-lived for its size ?
+500, Is there not a good overview of the Cloud Computing market out there?
+501, Which is the best place to go in Ede ?
+502, Which is the smallest amount we can get using at most 10 twos?
+503, What is the least sum that can be got by using exactly 5 twos?
+504, What is SOMA ?
+505, What does the technique called `` cold fusion '' produce ?
+506, What kind of business is 7-Eleven ?
+507, Does Cebu City  belong to Philippines?
+508, CPR is the abbreviation for what ?
+509, What is the average date when most malls begin putting up Christmas holiday decorations ?
+510, Define cosmology .
+511, What was the non-fiction best-seller of 1952   1953 and 1954 ?
+512, What was John F. Kennedy 's 1960 campaign song ?
+513, What are the first names of Rowan and Martin   the stars of TV 's Laugh-In ?
+514, What year were the Olympic Games played in where Nadia Comaneci became popular ?
+515, Which cats pursued Tweety Pie in his first cartoon appearance ?
+516, Is there not any formula for finding nth prime number?
+517, Is she a scientist or a celebrity?
+518, Is there not any book/website or any other thing from which I can learn JavaScript from Basics?
+519, How do I make a girl who is a newly joined junior in my college to fall in love with me?
+520, How do I get a complete list of all the people that are living with the last name Kilvington ?
+521, What is CVP ?
+522, What did Warlock wear on his forehead in Marvel comics ?
+523, Is that man an architect?
+524, What are the wolverine habits ?
+525, What country contains the westernmost point in South America ?
+526, What was the occupation of Mandy Rice-Davies ?
+527, Is there not a way to arrive at the number of buses plying over intercity routes in India today?
+528, What imaginary line is halfway between the North and South Poles ?
+529, Is there not dust on the moon?
+530, Name a golf course in Myrtle Beach .
+531, Does RSN  mean Renal support network?
+532, Does AAIN  mean American Academy of Industrial Nurses?
+533, How much snow equals an inch of rain ?
+534, What is the origin of music ?
+535, What are the non-invasive blood glucose monitoring systems in India?
+536, Do tourists like to visit Bilbao ?
+537, What is the highest waterfall in the United States ?
+538, How many American soldiers have died for their country to date ?
+539, What is the heaviest naturally occurring element ?
+540, Is there not any way you can go over your 30 days on Spotify premium trial?
+541, How many airline schools are there in the U.S. ?
+542, What is the country of origin for the name Thomas ?
+543, Is there any site that will allow me to trace my lost mobile phone via its IMEI number?
+544, Is there a way to find my iCloud password without security questions if forgotten password?
+545, Is that gentleman an architect or a machine learning professional?
+546, What are the first ten amendements passed ?
+547, What is the greatest sum that can be got by using exactly 5 sevens?
+548, Isn't Al-Ubayyid  the capital of Sudan?
+549, What constitutes an adult ?
+550, What does it take to be a hero ?
+551, What are some of the best horror novels of 2014?
+552, Which is the worst place to go in  Antipolo City ?
+553, Which is the maximum fraction we can get using at most 10 sevens?
+554, Who was Jean Nicolet ?
+555, Is there any open source package for visual search like Pinterest in NodeJS?
+556, Is there any app that gives free data everyday in Grameenphone?
+557, How many inches over six feet is the Venus de Milo ?
+558, What was W.C. Fields ' real name ?
+559, Is there a way to get data from store purchases (receipts) without having to scan a receipt?
+560, In the late 1700 's British convicts were used to populate which colony ?
+561, What is the dialogue circle in cartoons called ?
+562, What will be my rank in NEET 2016 if my marks is 391?
+563, What is considered the costliest disaster the insurance industry has ever faced ?
+564, What are the five most popular Usenet groups ?
+565, What do the 12 days of Christmas mean ?
+566, Does Balikpapan  belong to Indonesia?
+567, Doesn't Eujeongbu  belong to South Korea?
+568, Does Cartagena de Indias  lie in Colombia?
+569, Does CMS  mean Centers for Medicare and Medicaid Services?
+570, What famed library can you reach by dialing 22-287-5 ?
+571, Isn't Bari  the capital of Italy?
+572, What is the largest number that can be got by using exactly 5 sevens?
+573, Isn't Altay City  the capital of China?
+574, In 1990   what day of the week did Christmas fall on ?
+575, Which is the maximum fraction we can get using at most 10 zeros?
+576, How many years is Johnnie Walker Black Label aged ?
+577, What celebrity couple   when going through a divorce   divided their toilet paper into two equal piles ?
+578, What is a fear of gravity ?
+579, How does the chain of command work inside an US army Apache helicopter ?
+580, What animal has killed the most people ?
+581, What is the definition of a witch ?
+582, What are names of two old men who appear in the serial tv Muppets Show ?
+583, What are some of the best paid part time jobs that can be done from home?
+584, Is she an engineer or a convict?
+585, What is the state flower of Michigan ?
+586, Which is the largest integer we can get using at most 10 sixes?
+587, Is that girl a doctor or a machine learning professional?
+588, Is there an inpatient Drug and Alcohol Rehab Center in San Francisco County California?
+589, Is scientology a fraud?
+590, Which is the minimum number we can get using at most 10 twos?
+591, What is ABEM ?
+592, Is there not any courses related to electrical engg. Branch after BE?
+593, Is there a character profile sheet for creating a detective I can use?
+594, How can I improve my spoken English ability?
+595, What precious stone is a form of pure carbon ?
+596, What is the purpose of a car bra ?
+597, What sun-blasted   14-mile wide valley is just north of the Mojave desert ?
+598, Does CMS  stand for Centers for Medicare and Medicaid Services?
+599, When did Mount St. Helen last have a major eruption ?
+600, What are the first and last letters of the Greek alphabet ?
+601, What is the largest sum that can be got by using exactly 5 fives?
+602, What is a `` node '' in computer terms ?
+603, What is the maximum fraction that can be got by using exactly 5 sevens?
+604, Which is the largest number we can get using at most 10 sevens?
+605, What is the minimum amount that can be got by using exactly 5 zeros?
+606, Does Cedar Rapids  belong to United States?
+607, Is there a way I could learn to play the piano?
+608, Is that man a doctor or a scientist?
+609, Doesn't Brazzaville  lie in Republic of the Congo?
+610, How do websites like Yahoo and Excite make money ?
+611, Who is the nebbish that is Marvel 's official mascot ?
+612, How does Zatanna perform her magic in DC comics ?
+613, What is the secret of the universe ?
+614, Is there any NGO in Mumbai for which I can work as volunteer on weekends?
+615, What is pectin ?
+616, Does Apeldoorn  lie in Netherlands?
+617, What is Compaq 's mission statement ?
+618, Is he an engineer or a carpenter?
+619, What is the maximum sum that can be got by using exactly 5 zeros?
+620, What is after death ?
+621, Doesn't NPS  mean National Prescribing Service (Australia)?
+622, What is the biggest sum that can be got by using exactly 5 ones?
+623, Does CAO  mean Canadian Association of Optometrists?
+624, Which is the biggest numeral we can get using at most 10 twos?
+625, What is EOD ?
+626, Is there not a board game with a dating theme?
+627, When was the first American encyclopedia published ?
+628, What is Dr. Seuss ' most popular book ?
+629, What are the differences between particles and molecules?
+630, What is the maximum sum that can be got by using exactly 5 nines?
+631, What 's the Hungarian word for pepper ?
+632, How do you clean an LCD monitor screen ?
+633, Who was Darth Vader 's son ?
+634, Who was the first man to return to space ?
+635, What is the tallest mountain ?
+636, Is there a possibility of peace between India and Pakistan?
+637, Is there not a way to edit your question details before submitting the question first?
+638, Does EPC  mean Export Promotion Council?
+639, Which is the worst place to go in  Fushun ?
+640, When is the Jimmy Buffett concert coming to the E center in Camden NJ ?
+641, Does CMA  stand for Canadian Medical Association?
+642, What is the half-life of P-32 ?
+643, What is the smallest number that can be got by using exactly 5 twos?
+644, What two presidents of the U.S. published books of poetry ?
+645, In what state was there an 11 million gallon oil spill ?
+646, What is the highest sum that can be got by using exactly 5 zeros?
+647, Who did Sonny Liston succeed as world heavyweight boxing champion ?
+648, What country other than Germany invaded Poland in September 1939 ?
+649, What country 's capital was formed when Pesth and Buda merged ?
+650, How long is Camptown Racetrack ?
+651, What is the origin of Boxing Day ?
+652, Is there anyone who is interested to do free guest posting?
+653, Is there not any list of Hackathons in Bay Area for 2016?
+654, What piano company claims its product is the `` Instrument of the immortals '' ?
+655, What is carpal tunnel syndrome ?
+656, Which is the greatest integer we can get using at most 10 nines?
+657, Is there an NRI quota in the IIMs in India?
+658, What are the `` Star Wars '' satellites ?
+659, Is she not a celebrity?
+660, Is there not any Android software engineer?
+661, Does SLP  mean Speech-language pathologist?
+662, Is that person not a celebrity?
+663, Which is the worst place to go in  Eilat ?
+664, What tennis player has the nickname `` Nasty '' ?
+665, Doesn't ROA  stand for Return on assets?
+666, Is there not a Drug and Alcohol Rehab Center in Sitka County AK?
+667, How many hours of work does it take a typist to complete a 100-page screenplay ?
+668, Who was the king who was forced to agree to the Magna Carta ?
+669, What is severance pay ?
+670, Why are so many questions posted to Quora that are so easily answered by using Google?
+671, Why did several San Diego schools remove apples from students menus ?
+672, What part of Britain comprises the Highlands   Central Lowlands   and Southern Uplands ?
+673, What 's the Fahrenheit equivalent of zero degrees centigrade ?
+674, What is myopia ?
+675, Do tourists like to visit Franca ?
+676, What was `` America 's recessed-filter cigarette '' ?
+677, Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place ?
+678, Which is the best place to go in Bogra ?
+679, Is he an artist or a machine learning professional?
+680, Which is the minimum number we can get using at most 10 sixes?
+681, Is there any benefit of doing MBA after MTECH?
+682, Should there be a war between India and Pakistan for Kashmir?
+683, Which is the maximum fraction we can get using at most 10 twos?
+684, Does ASMI  stand for Australian Self-Medication Industry?
+685, What was originally defined as one 1-millionth of the distance from the equator to the Pole ?
+686, Name 11 famous martyrs .
+687, What is the maximum integer that can be got by using exactly 5 fives?
+688, What does Aaron mean ?
+689, Doesn't CFD  stand for Contract for difference?
+690, Which is the maximum numeral we can get using at most 10 sixes?
+691, Is there not a way to sort comments/answers on Quora by time (e.g.  latest comments on top)?
+692, What time of year do most people fly ?
+693, What river flows between Fargo   North Dakota and Moorhead   Minnesota ?
+694, I want to get thrilled  Which movie should I watch?
+695, What are the three most populated countries in the world ?
+696, What barroom judge called himself The Law West of the Pecos ?
+697, What caused the death of Bob Marley ?
+698, Which is the largest amount we can get using at most 10 threes?
+699, Does CDS  mean Credit default swap?
+700, Doesn't RONA  mean Return on net assets?
+701, Is there a good tool to visualize Caffe network prototxt file?
+702, What artist 's studio was the Bateau-Lavoir in Montmartre ?
+703, What are Maid-Rites ?
+704, What comic strip sometimes features a mailman named Beasley ?
+705, Is she a doctor or a scientist?
+706, What is the smallest numeral that can be got by using exactly 5 eights?
+707, What British prime minister and U.S. president were seventh cousins once-removed ?
+708, Is that boy an artist or a convict?
+709, What is the least integer that can be got by using exactly 5 fours?
+710, What animal 's tail is called a brush ?
+711, Is there anything I could do to help India and Pakistan get along with each other?
+712, What is the average weight for a man ?
+713, What 's the nearest star to Earth ?
+714, Does RSN  stand for Renal support network?
+715, Doesn't Bucharest  belong to Romania?
+716, What actor dressed up as Santa Claus and had a once-a-year affair with actress Shelley Winters every Christmas for many years ?
+717, Name the various super-teams to which the Angel has belonged .
+718, What is the smallest integer that can be got by using exactly 5 fives?
+719, Is there not an estimated release date for Font Awesome 4.7?
+720, How many oceans are there and name them ?
+721, What is the most popular sport in Japan ?
+722, What explorers followed Columbus to the Americas ?
+723, Is there any way to delete Snapchat saved messages from a receiver?
+724, What 's the third month of the Gregorian calendar ?
+725, What do you think about my short film  ColorShift?
+726, Who were the 1974 Oscar winners ?
+727, Who gave King Arthur the round table ?
+728, What pillar of the Dutch Renaissance painted Aristotle Contemplating the Bust of Homer ?
+729, How many bails are there in a cricket wicket ?
+730, What high school does Archie attend ?
+731, What classical Spanish writer warned   `` All that glitters is not gold '' ?
+732, What is NAACLS ?
+733, Who replaced Bert Parks as the host of The Miss America Pageant ?
+734, How do I stop being addicted to porn?
+735, What hair color can I use to just cover a little gray ?
+736, Which is the best place to go in Batna ?
+737, What is the origin of the word `` mushroom '' ?
+738, What North American city sprouts the most parking meters ?
+739, Is Bharuch  the capital of India?
+740, How can I get a comic character I made copyrighted and published ?
+741, Do desktops degrade as quickly?
+742, Who was the first black to be head coach of a major league pro sports team ?
+743, When will the best time for having sex?
+744, Why does tuberculosis afflict people ?
+745, What is the minimum integer that can be got by using exactly 5 nines?
+746, Doesn't CRN  stand for Certified radiology nurse?
+747, Which is the maximum integer we can get using at most 10 twos?
+748, Which is the highest fraction we can get using at most 10 sevens?
+749, What is supernova ?
+750, Doesn't CSI  mean Continual Service Improvement?
+751, Does AOA  mean Australian Orthopaedic Association?
+752, What chapter of the Bible has the most verses ?
+753, Is there not a Drug and Alcohol Rehab Center in Petersburg County AK?
+754, Is there not an ultimate limit to how much information the human brain can actually hold?
+755, What is the difference between a bachelor and a 1 bedroom apartment ?
+756, Who was the actor who played Sam in the movie Casablanca ?
+757, Is there a way to view your Spotify play history?
+758, Who played the Ringo Kid in the 1939 film Stagecoach ?
+759, What is a fear of clouds ?
+760, What year did Jack Nicklaus join the Professional Golfers Association tour ?
+761, What is the average age of a member of the team that worked on the Manhatten Project ?
+762, What is the minimum integer that can be got by using exactly 5 sixes?
+763, Is there any tech fest for biotechnology?
+764, Which is the smallest integer we can get using at most 10 fives?
+765, Is there not anyway to bleach your hair when you're too broke to afford bleach?
+766, Doesn't CAP  mean Canadian Association of Physicists?
+767, Do tourists like to visit Franco da Rocha ?
+768, What does Melissa mean ?
+769, What is the largest sum that can be got by using exactly 5 fours?
+770, Is there a way to leverage Google Maps or other tools to determine highest volume commute destinations for a neighborhood?
+771, What English word comes from the Old French covrefeu   meaning cover fire ?
+772, Is there not a function in C that converts an integer into bits?
+773, What actor learned to play the saxophone and speak Russian for a role in a movie ?
+774, Is that person a scientist or a celebrity?
+775, What is CNA ?
+776, Which is the biggest numeral we can get using at most 10 zeros?
+777, Who said `` Give me liberty or give me death '' ?
+778, Doesn't R.Ph  mean Registered pharmacist?
+779, What is the wingspan of a condor ?
+780, What is ASPS ?
+781, In what year did Thatcher become prime minister ?
+782, What is the organizational structure of the New Delhi Indira Gandhi airport ?
+783, Is there any hockey club in Raipur  Chhattisgarh?
+784, Is there not something you liked doing/eating before but started hating it after moving to a different country?
+785, What is the longest place name in the U.S. ?
+786, How does ATM transaction work?
+787, Which is the least sum we can get using at most 10 ones?
+788, Isn't Barakaldo  the capital of Spain?
+789, Is there not any bug in Quora?
+790, Which is the biggest fraction we can get using at most 10 twos?
+791, What is the maximum fraction that can be got by using exactly 5 sixes?
+792, Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ?
+793, What 's the score of a forfeited baseball game ?
+794, How can your school march in the Macy 's Thanksgiving Parade ?
+795, What two New York Yankee pitchers swapped wives and families ?
+796, Is that girl a sportsperson or a convict?
+797, What do you call the feeling of having experienced something before ?
+798, Doesn't Bharatpur  belong to India?
+799, What two South American countries do n't border Brazil ?
+800, Doesn't Dessie  lie in Ethiopia?
+801, How do we make free energy?
+802, Who is the most academically qualified Bollywood celebrity?
+803, Which medium is Hamblen the first singing cowboy in ?
+804, Is that girl an engineer or a machine learning professional?
+805, What country saw the origin of the Asian Flu ?
+806, Where does the tennis star Stefan Edberg come from ?
+807, Which is the worst place to go in  Christchurch ?
+808, Where do the Blackhawks maintain their operations ?
+809, Is there not a demand for quiz companies in India?
+810, Isn't Bhopal  the capital of India?
+811, Doesn't RMA  stand for Registered medical assistant?
+812, Which is the minimum number we can get using at most 10 ones?
+813, Does CCG  mean Children's Cancer Group?
+814, Who starred in the movie The War of the Worlds ?
+815, Is there any way to get taller if I have already crossed 20?
+816, Don't tourists like to visit Daloa ?
+817, Who wrote `` The Scarlet Letter '' ?
+818, Who gave us the `` Rolling Writer '' ?
+819, What do camels store in their humps ?
+820, What state was Herbert Hoover born in ?
+821, How do you identify prime numbers ?
+822, What does God create in the first sentence of the Bible ?
+823, In what Olympic Games did Nadia Comaneci become popular ?
+824, Is there not a proven causality between smoking and lung cancer?
+825, Is that woman a doctor or a machine learning professional?
+826, Is there not any way for a cognitive neuroscientist pursue a career as a neurologist?
+827, Doesn't CMFB  mean Committee on monetary  finance and balance of payments statistics?
+828, Who is Prince Naseem Hamed ?
+829, Who were the Yankee 's frequent enemies ?
+830, Which of these are authors ?
+831, Which YouTube video has the highest like/dislike ratio?
+832, Doesn't ASSH  stand for American Society for Surgery of the Hand?
+833, Is that person a doctor or an engineer?
+834, What nationality were the 123 people who died in the Black Hole of Calcutta ?
+835, What hockey team did Wayne Gretzky play for ?
+836, Which U.S. President is buried in Washington   D.C. ?
+837, What schools in the Washington   DC NN NN VBP NN NN NN NN .
+838, Can I see an ordered list of the people with whom I share the most mutual friends on Facebook?
+839, How do the PM and Prez get women?
+840, What types of water pollution are there ?
+841, Does ROIC  stand for Return on Invested Capital?
+842, What is the origin of the word assassinate ?
+843, What kind of species is the monster in the film `` Jaws '' ?
+844, What number of American soldiers remain unaccounted from the Vietnam war ?
+845, The Orange Bowl is located in what city ?
+846, Which magazine is `` fine entertainment for men '' ?
+847, When is Dick Clark 's birthday ?
+848, Who painted Mother and Child ?
+849, What would be the next number in the series-2 15 4 12 6 7?
+850, Don't tourists like to visit Chihuahua ?
+851, Is there any available Saas eCommerce platform that provides marketing solutions?
+852, Isn't Fontana  the capital of United States?
+853, Doesn't CPhT  stand for Certified pharmacy technician?
+854, Where can I find a `` Fifth Element '' screensaver ?
+855, Would you want to be President?
+856, What does a collier mine ?
+857, Where is the human skin least sensitive ?
+858, Is there not any way to view the person's profile if you have their username on Snapchat without adding that person to friends?
+859, What is the longest major league baseball-winning streak ?
+860, Is there life elsewhere in the universe?
+861, What are all the rivers in Europe ?
+862, Who developed potlatch ?
+863, What sport is played on the largest field ?
+864, Which operating system runs on IBM-compatible machines ?
+865, How do you box train a cat ?
+866, Is there a function for finding the nth prime number?
+867, Is there not an R package that implements multinomial event model for text classification problems?
+868, What Southern California town is named after a character made famous by Edgar Rice Burroughs ?
+869, What religion has the most members ?
+870, Is that man an engineer or a convict?
+871, What Nevada center has been dubbed The Biggest Little City in the World ?
+872, What is the starting salary for beginning lawyers ?
+873, Do you have any psychic abilities?
+874, Is there any online site where I can get my IQ score accurately for free?
+875, What was the species of Winnie the Pooh ?
+876, What does ciao mean ?
+877, Which is the maximum sum we can get using at most 10 sixes?
+878, Doesn't Corp.  stand for Corporation?
+879, How do I cure anal fissure permanently with home remedies?
+880, What war did Florence Nightingale tend the troops in ?
+881, Who is the actress Bette Davis once said she wished she looked like ?
+882, What is Muscular Dystrophy ?
+883, How do I know if I am pregnant ?
+884, When Mighty Mouse was conceived   what was his original name ?
+885, Don't tourists like to visit Cajamarca ?
+886, Is there not a Feed Rinse alternative?
+887, What is Nitrox diving ?
+888, How do I find a snowboarding website ?
+889, What organization 's offices were broken into at Watergate in 1972 ?
+890, Doesn't EAR  stand for Effective annual rate?
+891, Who are the best headhunters in Mumbai?
+892, Is there a way to get Quora (or websites in general) to display with fonts of my own choosing in Chrome on Linux?
+893, How old was Gene Siskel ?
+894, Does AAP  stand for American Academy of Pediatrics?
+895, Is there a way to arrive at the number of buses plying over intercity routes in India today?
+896, Where is Kings Canyon ?
+897, Doesn't Aktau  lie in Kazakhstan?
+898, Where did Bill Gates go to college ?
+899, Which is the least sum we can get using at most 10 fours?
+900, Is there not trillionaire in the world?
+901, What does it take to become a lawyer ?
+902, What is the least amount that can be got by using exactly 5 fives?
+903, What is a urologist ?
+904, Doesn't AGD  mean Academy of General Dentistry?
+905, Doesn't CMA  mean Certified Management Accountant?
+906, What is the capital of Yugoslavia ?
+907, Is there any online software available for calculating the time and space complexity of a Java program in Big O?
+908, What is the origin of the peace symbol ?
+909, Who is the current prime minister and president of Russia ?
+910, Is there not a way to legally own a business at 17 in the USA?
+911, What part did Benjamin Franklin play in the development of the newspaper in America ?
+912, What is the electronic device used to produce visual displays corresponding to electric signals ?
+913, Is there not any part of the body where people DON'T get cancer?
+914, Is there not an inpatient Drug and Alcohol Rehab Center in Siskiyou County California?
+915, What two historical figures   who fought each other in a famous battle   each have a food named after them ?
+916, Which is the maximum fraction we can get using at most 10 threes?
+917, Is there any IITian who is a Broker in Stock Market in India currently?
+918, Does EDI  stand for Electronic Data Interchange?
+919, Is there not any online coaching by TIME?
+920, Which is the maximum fraction we can get using at most 10 fours?
+921, Why I feel dizzy when I am playing some 3D games but others do not make me feel like this?
+922, What type of hunting are retrievers used for ?
+923, What is the abbreviation for micro ?
+924, What is the smallest number that can be got by using exactly 5 threes?
+925, What is the name of the president of Garmat U.S.A ?
+926, Where are all European and American eels born ?
+927, Does NYHA  stand for New York Heart Association?
+928, How much does one ton of cement cost ?
+929, What was a Mae West on a World War II battleship ?
+930, How many double-word-score spaces are there on a Scrabble Crossword Game board ?
+931, Is there any subject-wise cutoff in the NEET 2017?
+932, Is there an easy way to download old versions of Android apps from the Google Play store?
+933, Don't tourists like to visit Dushanbe ?
+934, How was your experience of Lucid dreaming?
+935, Is there any way to check driver's licence information by name?
+936, In Dana 's `` Two Years Before the Mast   '' what seafarers lived in an abandoned oven on the beach at San Diego ?
+937, Does CAPEX  stand for Capital Expenditure?
+938, Where can I find a picture of a Blue Meanie ?
+939, Is there a more pleasurable feeling than sex and orgasm?
+940, What do the number 1   2   and 4 mean on Dr. Pepper bottles ?
+941, What does Elysium mean ?
+942, How many dots make up the symbol for `` because '' ?
+943, What is the length of border between the Ukraine and Russia ?
+944, What 's the second-most-used murder weapon in the U.S. ?
+945, What is the capital of California ?
+946, Why haven't we developed a fusion reactor capable of generating more energy than it consumes?
+947, Where can I buy a hat like the kind Jay Kay from Jamiroquai wears ?
+948, What French seaport claims to be The Home of Wines ?
+949, Doesn't Evansville  belong to United States?
+950, Doesn't AACN  mean American Association of Critical-Care Nurses?
+951, What is the name of the song in which picturized on Madhuri Dixit and Ranbir Kapoor and is from which movie?
+952, What year was Mozart born ?
+953, Is that man a doctor or a sportsperson?
+954, Is there anywhere in the world offering pain management for peripheral neuropathy as opioids haved been banned in US?
+955, What Batman character tools around on a Batcycle ?
+956, What is CSI ?
+957, What do Caroll Baker   Tammy Grimes   Debbie Reynolds   and Judy Garland all have in common ?
+958, Is that lady a carpenter or a convict?
+959, Who was the author of the book about computer hackers called `` The Cuckoo 's Egg   Tracking a Spy Through the Maze of Computer Espionage '' ?
+960, From what cause does tuberculosis stem ?
+961, Which is the smallest number we can get using at most 10 ones?
+962, What causes blue balls ?
+963, What does the donation process entail ?
+964, Whose first presidential order was   `` Let 's get this goddamn thing airborne '' ?
+965, What is the protagonist 's name in Dostoevski 's `` The Idiot '' ?
+966, Is there not an option for personal chat on Quora?
+967, Does RCGP  mean Royal College of General Practitioners?
+968, Is there a difference between native mini display port and just mini display port on Macbook air?
+969, Is there an alternative to Excel tables in Google Sheets?
+970, Is there any significance to dreaming in color vs dreaming in black and white?
+971, What line of candy products included Super Skrunch and Peanut Butter Oompas ?
+972, Is there not any sense in having registered company (LLC or Inc) if you have no clients and planning to raise money?
+973, When is the Sun closest to the Earth ?
+974, What appointments secretary to Richard Nixon went to jail ?
+975, How does an abacus work ?
+976, Where can I buy a pony on the Big Island for my daughter ?
+977, What causes the body to shiver in cold temperatures ?
+978, What is the most popular last name ?
+979, What ocean does Mauritania border ?
+980, How can I see who blocked me at Facebook?
+981, Is that gentleman not a convict?
+982, What is the greatest number that can be got by using exactly 5 fives?
+983, Is there a way to detect if a phone number is a burner from the Burner app?
+984, Is there an API to access MLS data?
+985, Name the disposable razor that `` costs about 19 cents . ''
+986, How much did Mercury spend on advertising in 1993 ?
+987, How is water treated to make it safe to drink ?
+988, Is there not a good alternative to granite countertops to save money?
+989, Isn't Foggia  the capital of Italy?
+990, What constellation represents a hunter with club and shield ?
+991, How would you describe a person with lots of interests?
+992, What indoor sport saw the Phoenix Inferno become the Phoenix Pride on July 14   1983   when the temperature hit 111 degrees ?
+993, Doesn't Brno  belong to Czech Republic?
+994, When was Hiroshima bombed ?
+995, What is a reliable site that I can download Heretic 2 ?
+996, Does Armavir  belong to Russia?
+997, What does IBM stand for ?
+998, What is the biggest number that can be got by using exactly 5 fours?
+999, Does ACOG  mean American College of Obstetricians and Gynecologists?
+1000, Is that girl a scientist or a sportsperson?
+1001, Is there not a difficulty in getting a visa to Middle East countries if I have gone to Israel?
+1002, Do tourists like to visit Aba ?
+1003, Is there a difference between getting equity  stock  shares?
+1004, Which is the worst place to go in  Antalya ?
+1005, What 's the closest G2 Spectrum Yellow Dwarf to Earth ?
+1006, What is endometriosis ?
+1007, How do you get a broken cork out of a bottle ?
+1008, Is there not a Google Docs API that I can use on a personal site?
+1009, Isn't Burlington  the capital of Canada?
+1010, Doesn't SLP  mean Speech-language pathologist?
+1011, What is the difference between a turkey and a chicken?
+1012, Who was Israel 's first prime minister ?
+1013, What were the first frozen foods ?
+1014, Is there a pattern to the prime numbers?
+1015, Which is the least numeral we can get using at most 10 threes?
+1016, Is there any way to download YouTube playlists?
+1017, Is there a book like The 33 Strategies of War that covers a wide variety of the major political conspiracies  plots and scheming in human history?
+1018, What is the highest number that can be got by using exactly 5 eights?
+1019, Is that man an artist or a sportsperson?
+1020, Which is the best place to go in Bogor ?
+1021, Is she a carpenter or a convict?
+1022, Developing nations comprise what percentage of the world 's population ?
+1023, What 's the most popular four-player game of all time ?
+1024, Which city in India has the best weather?
+1025, Which is the highest number we can get using at most 10 ones?
+1026, What is pilates ?
+1027, How many states did Richard Nixon carry in 1972 ?
+1028, Which is the worst place to go in  Ansan ?
+1029, Who was the first American citizen awarded the Albert Medal of the Society of Arts ?
+1030, Which is the least integer we can get using at most 10 fives?
+1031, Is there not an easy way to count the number of tweets posted with a specific hashtag?
+1032, What does a pedometer measure ?
+1033, Is that gentleman an engineer or an artist?
+1034, What is a fear of points ?
+1035, Is that lady a machine learning professional or a convict?
+1036, Does CDC  mean Centers for Disease Control and Prevention?
+1037, How many Community Chest cards are there in Monopoly ?
+1038, What is moxie ?
+1039, Is there positive scientific proof for parallel universes?
+1040, Is that boy not an artist?
+1041, Is there any place online that I can watch The Dead Mothers Club for free  that won't attack my computer?
+1042, What is the highest integer that can be got by using exactly 5 zeros?
+1043, Doesn't Changchun  belong to China?
+1044, Is there a copycat recipe for Buffalo Wild Wings' french fries?
+1045, How many votes in Congress dissented from the 1941 declaration of war with Japan ?
+1046, What kind of flowers does detective Nero Wolfe raise ?
+1047, What is the cost of the drugs used in tuberculosis treatments ?
+1048, Is there not a way to copy pages (folder structure intact) between open CS6 Fireworks files?
+1049, Is there a tenth planet in our solar system?
+1050, Is there not some painless way to suicide?
+1051, Who is Pia Zadora 's millionaire husband and mentor ?
+1052, What is AND ?
+1053, What are Bellworts ?
+1054, Is there a way to recover deleted files from a laptop?
+1055, What is wrong in this proof that 2+2 = 5?
+1056, What is the earth 's diameter ?
+1057, Is there any script that converts code that donot follow linux coding standard to linux coding standard?
+1058, What is the origin of blue for boys and pink for girls ?
+1059, What was Al Capone finally imprisoned for   in 1931 ?
+1060, Is there any sense in having registered company (LLC or Inc) if you have no clients and planning to raise money?
+1061, Is there an inpatient Drug and Alcohol Rehab Center in Sierra County California?
+1062, What does Visine get out ?
+1063, What province is Edmonton located in ?
+1064, Where did the name Daniel originate ?
+1065, Does RBI  mean Reserve Bank of India?
+1066, How many times was pitcher   Warren Spahn   a 20-game winner in his 21 major league seasons ?
+1067, What is ` Last Chance for Animals ' ?
+1068, What are the Nordic nations ?
+1069, Is that gentleman an architect?
+1070, What is the minimum numeral that can be got by using exactly 5 fives?
+1071, Are there any martial artists who started later in life and went on to become champions?
+1072, Is that boy a machine learning professional or a sportsperson?
+1073, What is the greatest number that can be got by using exactly 5 ones?
+1074, Which bollywood celebrity has his/her own jet?
+1075, Does SIGN  stand for Scottish Intercollegiate Guidelines Network (SIGN and NICE are major centers of CPG development)?
+1076, What kind of car did Janis Joplin ask the Lord to buy her ?
+1077, Does CASLPA  stand for Canadian Association of Speech-Language Pathologists and Audiologists?
+1078, Who was Lauren Bacall 's first husband ?
+1079, Is that woman not a scientist?
+1080, What 's the capital of Taiwan ?
+1081, What does a nihilist believe in ?
+1082, What is the origin of the term `` buffalo wings '' that is used as a menu item in bars across the nation for chicken wings in a spicey sauce ?
+1083, Which is the greatest integer we can get using at most 10 fours?
+1084, How big is our galaxy in diameter ?
+1085, Is she an engineer or a machine learning professional?
+1086, What is the greatest number that can be got by using exactly 5 twos?
+1087, Who is Duke Ellington ?
+1088, What is the difference between hair and fur ?
+1089, What is mutual fund all about?
+1090, When was Queen Victoria born ?
+1091, What is the best way to get you food stamp card?
+1092, Is there not a maximum age for leasing (not renting) a car in the U.S.?
+1093, Who is the Pope ?
+1094, Is there any way to send WhatsApp messages to someone not on your contact list?
+1095, Does Arad  lie in Romania?
+1096, Is he not a celebrity?
+1097, What famed river was Hernando de Soto the first European to see ?
+1098, How often are quadruplets born ?
+1099, Does Al Minya  belong to Egypt?
+1100, Who was the second person ever to wear Iron Man 's armor ?
+1101, How many miles is it to Ohio from North Carolina ?
+1102, What writer-journalist made his mark describing colorful Broadway and underworld characters ?
+1103, What is an eclipse ?
+1104, Who co-starred with Julie Andrews in Mary Poppins ?
+1105, Doesn't RA  mean Radiologist's assistant?
+1106, Doesn't NRAEMT  stand for National Registry Advanced Emergency Medical Technician (NRAEMT)?
+1107, Doesn't CIO  stand for Chief Information Officer or Chief Investment Officer?
+1108, What is the fastest production car?
+1109, Does CFCT  mean Cash Flow Cycle Time?
+1110, What 's the setting of John Le Carre 's A Small Town in Germany ?
+1111, Which is the greatest sum we can get using at most 10 eights?
+1112, What are other ways of getting stretch marks besides pregnancy   weight loss   and weight lifting ?
+1113, Is there not a website that sums up in what are specialized each US universities?
+1114, What was the name of the orca that died of a fungal infection ?
+1115, How many athletes did Puerto Rico enter in the 1984 Winter Olympics ?
+1116, Where is Logan Airport ?
+1117, How is the word ` qigong ' pronounced ?
+1118, Isn't Cabanatuan City  the capital of Philippines?
+1119, Does Eldoret  lie in Kenya?
+1120, What did the Confederate Constitution say about slavery ?
+1121, What river is Pocahontas buried along ?
+1122, What card suit originally represented the peasant class ?
+1123, What is the greatest sum that can be got by using exactly 5 fives?
+1124, Where is McCarren Airport ?
+1125, Does ASTRO  stand for ASTRO (American Society for Radiation Oncology)?
+1126, What is NHS ?
+1127, Who made the first airplane that could fly ?
+1128, Which is the maximum numeral we can get using at most 10 fives?
+1129, Where can I read about Chiang Kai-shek ?
+1130, Does ROCE  mean Return On Capital Employed?
+1131, Which is the worst place to go in  Adoni ?
+1132, How many words are actually needed to learn for the GRE?
+1133, What is the most radioactive food ?
+1134, What is the maximum amount that can be got by using exactly 5 ones?
+1135, What 's the name of the star of the cooking show   `` Galloping Gourmet '' ?
+1136, Which is the highest number we can get using at most 10 twos?
+1137, What is he doing now ?
+1138, Is Bharatpur  the capital of Nepal?
+1139, What is the average cost to replace brakes and rotors?
+1140, Where is Rider College ?
+1141, Is there any way to turn off my WhatsApp while my data pack is on?
+1142, What boxer 's life story is titled Raging Bull ?
+1143, How difficult would it be to learn how to play the accordion if I know how to play the piano?
+1144, Where is Webster University ?
+1145, What trophy is awarded to the winners of the Super Bowl ?
+1146, Who shared a New York City apartment with Roger Maris the year he hit 61 home runs ?
+1147, Who led the opposition when Konrad Adenauer was Chancellor in Germany ?
+1148, What soviet seaport is on the Black Sea ?
+1149, Is there a way to copy pages (folder structure intact) between open CS6 Fireworks files?
+1150, What woman was Time 's Man of the Year for 1952 ?
+1151, What is ABMS ?
+1152, What city is wiener schnitzel named for ?
+1153, Why are eggs supposed to be stored small end down ?
+1154, What is New England 's highest mountain ?
+1155, What were the five opening words on Ben Casey ?
+1156, What 's the home of the Rockettes ?
+1157, Who is the governor of Alaska ?
+1158, What is the current unemployment rate in the U.S. ?
+1159, When did Hitler come to power in Germany ?
+1160, Is there not positive scientific proof for parallel universes?
+1161, What American naval officer broke Japan 's isolationist policy in 1853 ?
+1162, Is there not any book that treats machine learning in C#?
+1163, What are the two houses of the Legislative branch ?
+1164, Is that gentleman an architect or a sportsperson?
+1165, Which mammal lives   breeds   eats   and sleeps underground ?
+1166, Is there not a way to extract the audio files from the OSX's Mixlr app?
+1167, Is there a way to get an H1B at a university and simultaneously work on creating a company?
+1168, Doesn't UNOS  mean United Network for Organ Sharing?
+1169, What U.S. university boasts the largest library ?
+1170, What is the oldest ethnological museum in the world ?
+1171, What first name was Nipsy Russell given at birth ?
+1172, Doesn't Detroit  lie in United States?
+1173, Is there a Google Docs API that I can use on a personal site?
+1174, What is a fear of fish ?
+1175, What is the time it takes a typist to type a screenplay that is 100 pages long ?
+1176, In what year was actress Joan Collins born ?
+1177, Where can I find detailed information about Manchukuo ?
+1178, What's the difference between the iPhone 6 and the iPhone 6s?
+1179, Is there any financial aid for International students in US universities?
+1180, Where are the Austerlitz and Victor Hugo subway stops ?
+1181, 68.44% of product passes the process spec.To pass  the product must be close to average. How many standard deviations away does 68.44% represent?
+1182, What 19th-century writer had a country estate on the Hudson dubbed Sunnyside ?
+1183, What is the history of `` the toast '' ?
+1184, Is that person an engineer or a scientist?
+1185, What are some real world example of encapsulation and abstraction and how are they different  yet related?
+1186, What was the first TV set to include a remote control ?
+1187, Where is Poe 's birthplace ?
+1188, Is she not an artist?
+1189, What is the maximum amount that can be got by using exactly 5 fours?
+1190, How many visitors go to the Vatican each year ?
+1191, What Asian city boasts the world 's biggest bowling alley ?
+1192, What is the oldest website on the Internet ?
+1193, What is the maximum fraction that can be got by using exactly 5 zeros?
+1194, What mustachioed comedian portrayed Frankie in North to Alaska ?
+1195, Which is the least amount we can get using at most 10 sixes?
+1196, Why is it that every teen girl has a crush on her mathematics teacher?
+1197, Name a movie that the actress   Sandra Bullock   had a role in .
+1198, What role do fruits play in the survival of plants ?
+1199, Is there any branch like Mechatronics (b.tech) in Bits Pilani?
+1200, What two countries in South America are landlocked ?
+1201, Is there not any economic benefit of a shareholder owning shares in a public company with a NOL?
+1202, Does CBOT  stand for Chicago Board of Trade?
+1203, Which is the minimum fraction we can get using at most 10 fours?
+1204, Is there not any way to improve my English language through talking with English people on WhatsApp or messenger?
+1205, Is that boy a doctor?
+1206, What is the least integer that can be got by using exactly 5 fives?
+1207, Isn't Alvorada  the capital of Brazil?
+1208, How does a bill become law ?
+1209, Is there not life on Mars?
+1210, Which is the minimum fraction we can get using at most 10 ones?
+1211, What is a biosphere ?
+1212, Doesn't CAP  stand for Canadian Association of Physicists?
+1213, Who killed Kurt Cobain ?
+1214, Don't tourists like to visit Bislig ?
+1215, What is the largest city in the world ?
+1216, Does Corp.  stand for Corporation?
+1217, What does a defibrillator do ?
+1218, What is TMJ ?
+1219, In what year was the Wall built ?
+1220, How many URL extensions are there ?
+1221, What class of animals makes up more than two-thirds of known species ?
+1222, Does EXP  mean Export?
+1223, Who died 1 feet from where John F. Kennedy did ?
+1224, What does Playboy title its `` continuing dialog on contemporary issues between Playboy and its readers '' ?
+1225, How can I become a true computer science engineer?
+1226, Doesn't Bahir Dar  lie in Ethiopia?
+1227, How can I give myself a French manicure ?
+1228, Who was Bonnie Blue Butler 's father ?
+1229, Is that lady an engineer or a convict?
+1230, Doesn't Bamako  belong to Mali?
+1231, How many types of lemurs are there ?
+1232, Where is the Taj Mahal ?
+1233, Who is Snoopy 's arch-enemy ?
+1234, What is the executor in a will ?
+1235, Is there not an economical way to travel from Szczecin to Poznan?
+1236, Who killed more people   Hitler or Stalin ?
+1237, How much did Manchester United spend on players in 1993 ?
+1238, Which of the following rock 'n roll stars has a `` star '' on Hollywood Boulevard ?
+1239, Doesn't SHO  stand for Senior house officer (UK)?
+1240, Who followed up his first two underwater thrillers with The Girl of the Sea of Cortez ?
+1241, Is he a carpenter or a celebrity?
+1242, Why did the UK have bad living standards in the 70s/80s  but better now?
+1243, What kind of puzzle first appeared in the U.S. in the New York World on December 21   1913 ?
+1244, How long do you have to pay back debt after claiming chapter 11 bankruptcy ?
+1245, What are the most common elements in the Earth 's crust ?
+1246, Is that woman a doctor or an artist?
+1247, Which is the minimum numeral we can get using at most 10 ones?
+1248, What is EPC ?
+1249, Doesn't CCS  mean Canadian Cardiovascular Society?
+1250, What is the minimum fraction that can be got by using exactly 5 threes?
+1251, What is RCGP ?
+1252, What is CFM ?
+1253, What major Victorian novelist spent as much time working for the post office as he did writing ?
+1254, What is the smallest number that can be got by using exactly 5 zeros?
+1255, What is federal income tax ?
+1256, What is the spectrum of a sine wave ?
+1257, What is CIMA ?
+1258, How do telephones work ?
+1259, Is there not any evidence that aliens visited our planet?
+1260, What are the best romantic comedy movies?
+1261, What is `` Vocal Sampling '' ?
+1262, What problems contributed to the high failure rate of Plains farmers in the 1800s ?
+1263, Is that girl not a scientist?
+1264, Is there not any way to delete Snapchat saved messages from a receiver?
+1265, What is the name of the Family Circus 's dog ?
+1266, What are access modifiers in Java?
+1267, When did beethoven die ?
+1268, What is the greatest amount that can be got by using exactly 5 fours?
+1269, Don't tourists like to visit Chikmagalur ?
+1270, What is Franz Kafka 's short story `` A Country Doctor '' trying to tell us ?
+1271, Is that man an architect or a sportsperson?
+1272, What contemptible scoundrel stole the cork from my lunch ?
+1273, What beer 's name is translated as `` lion brew '' ?
+1274, Doesn't CDC  stand for Centers for Disease Control and Prevention?
+1275, President Bush compared Saddam Hussein to whom ?
+1276, Is there not a Drug and Alcohol Rehab Center in Bristol Bay County AK?
+1277, Is that girl a doctor or an engineer?
+1278, Is there a way to force Chrome to stop auto-expanding bookmark folders?
+1279, What hemisphere is the Philippines in ?
+1280, When will Jean Aeul publish her next book ?
+1281, Name Dick Tracy 's two children .
+1282, Which is the greatest fraction we can get using at most 10 sixes?
+1283, Is she not an architect?
+1284, Is that person an architect?
+1285, What Boris Pasternak book sold 5   0 copies to become the fiction best-seller of 1958 ?
+1286, Is there not any branch of mathematics that a computer can't perform ?
+1287, What are the words to the song sung by `` Banana in Pajamas '' ?
+1288, How can someone control their anger?
+1289, Who tramped through Florida looking for the Fountain of Youth ?
+1290, How many people live in Tokyo ?
+1291, Name an American made motorcycle .
+1292, What makes sperm ?
+1293, Doesn't ACR  mean American College of Rheumatology?
+1294, What 's the highest hand in straight poker ?
+1295, Is there not any cure for psoriasis in homeopathy?
+1296, What TV series features the adventures of a married couple named Jonathan and Jennifer ?
+1297, What is the temperature for baking Peachy Oat Muffins ?
+1298, Is Bukavu  the capital of Democratic Republic of the Congo?
+1299, Does RONA  stand for Return on net assets?
+1300, Who was Sherlock Holmes 's archenemy ?
+1301, Is there not any difference between NPA and stressed assets?
+1302, How much is the maximum gold you can take when flying from India to USA?
+1303, Where is one 's corpus callosum found ?
+1304, Don't tourists like to visit Fujin City ?
+1305, Which is the least integer we can get using at most 10 threes?
+1306, Is that gentleman not an architect?
+1307, Do tourists like to visit Chiayi ?
+1308, Is there any way to use lightening as electricity in our homes  offices etc?
+1309, How long does it take sunlight to reach Earth ?
+1310, What are the historical trials following World War II called ?
+1311, Why was Muhammad Ali stripped of his title and barred from boxing in 1967 ?
+1312, How old is too old for a child to not be talking ?
+1313, Does ASCP  mean American Society of Consultant Pharmacists?
+1314, What is a fear of drinking ?
+1315, Is there not any site avilable through which I can earn Flipkart and Amazon shopping vouchers just working 1-2 hour on weekends?
+1316, Is there not a country in this world that doesn't have a national anthem or national song?
+1317, Which is the maximum sum we can get using at most 10 fours?
+1318, What was the only country you were allowed to drive into Israel from in 1979 ?
+1319, What is the seafaring name for the southern tip of South America ?
+1320, Which is the best place to celebrate New Year 2015 in Hyderabad?
+1321, What is the highest fraction that can be got by using exactly 5 fours?
+1322, What U.S. President showed a fondness for munching on bee pollen bars ?
+1323, Is she a scientist or a machine learning professional?
+1324, Is that lady an artist or a convict?
+1325, What beer is ` rockin ' America ?
+1326, Is Bani Suwayf  the capital of Egypt?
+1327, Doesn't NKC  stand for Northwest Kidney Centers?
+1328, What U.S. state has sagebrush as its state flower ?
+1329, Does STFM  mean Society of Teachers of Family Medicine?
+1330, Who founded the first aerodynamics laboratory in 1912 ?
+1331, Where can I find a willing mentor?
+1332, What famed river flows through Bagdad ?
+1333, Which is the maximum sum we can get using at most 10 eights?
+1334, Doesn't CCG  stand for Children's Cancer Group?
+1335, Which is the highest amount we can get using at most 10 zeros?
+1336, What did the Yalta Conference lead to ?
+1337, Doesn't ARRT  stand for American Registry of Radiologic Technologists?
+1338, What is the name of the police officer who tried to keep order in Top Cat 's neighborhood ?
+1339, Is there not a fundamental question underlying all other philosophical questions?
+1340, Is there not a place where I can find Code.org blocks assets for free?
+1341, Which are the best schools for studying natural language processing?
+1342, Which of the following actors worked in New York 's Yiddish Theater ?
+1343, What fruit does the ficus produce ?
+1344, What is AACN ?
+1345, Is there any way to know who is the most followed SoundCloud member?
+1346, What are the first six words of Dickens 's A Tale of Two Cities ?
+1347, What is the difference between a classical and an acoustic guitar ?
+1348, Doesn't Bratislava  lie in Slovakia?
+1349, During which season do most thunderstorms occur ?
+1350, What chain store is headquartered in Bentonville   Arkansas ?
+1351, What is a panic disorder ?
+1352, What volcano showers ash on Sicily ?
+1353, Where does most of the marijuana entering the United States come from ?
+1354, Isn't Bijapur  the capital of India?
+1355, Who is the richest woman in the world ?
+1356, What was Dwight Eisenhower 's favorite card game ?
+1357, Does Belfast  lie in United Kingdom?
+1358, What island was the target of the U.S. 's Operation Urgent Fury ?
+1359, Is he a doctor or an artist?
+1360, What are pediatricians ?
+1361, What money was used by them ?
+1362, What is the biggest numeral that can be got by using exactly 5 sixes?
+1363, Is there not a sectional cutoff in the SSC combine higher secondary exam 10+2?
+1364, Who killed Lee Harvey Oswald ?
+1365, What is RRT ?
+1366, Who penned   `` Neither a borrower nor a lender be '' ?
+1367, Is there a treatment for erectile dysfunction?
+1368, What is the greatest integer that can be got by using exactly 5 eights?
+1369, Who was the first governor of Alaska ?
+1370, What is a thermometer ?
+1371, What government exams  other than the GATE  can final year computer science students give?
+1372, Does USMLE  mean United States Medical Licensing Examination?
+1373, Does RPhT  mean Registered pharmacy technician?
+1374, Why do airliners crash vs. gliding down ?
+1375, What are all the southern states of the U.S. ?
+1376, What made the Finger Lakes in western New York state ?
+1377, What is neurology ?
+1378, What Russian city boasts the Hermitage Museum ?
+1379, How do I calculate a semester percentage from SGPA in ITER?
+1380, Is there not any ayurvedic doctor available for aplastic anemia?
+1381, What organization is the Security Council a part of ?
+1382, Who sings Angel Eyes from the 80 's ?
+1383, How does a hurricane form ?
+1384, What two countries ' coastlines border the Bay of Biscay ?
+1385, Is he an engineer or a celebrity?
+1386, Silly putty was invented by whom ?
+1387, What was the first English play written exclusively for children ?
+1388, What is Martin Luther King Jr. 's real birthday ?
+1389, What is the pig population of the world ?
+1390, Who are Woody Woodpecker 's niece and nephew ?
+1391, Who is the sexiest women in the world ?
+1392, Is that woman not an engineer?
+1393, What are xerophytes ?
+1394, Is there not a UK equivalent person to the Automatic app?
+1395, What were Babe Ruth 's Christian names ?
+1396, Is she an architect or a celebrity?
+1397, Is there any children story book shop in Australia?
+1398, What ocean is the largest in the world ?
+1399, How many people died on South Carolina highways in 1998 ?
+1400, What are the rites accompanying the circumcision of a newly born-child in Judaism called ?
+1401, What is the least numeral that can be got by using exactly 5 fours?
+1402, Is there any way to tell if someone is fantasizing about you?
+1403, What is the starting salary of a radiographer ?
+1404, Is there not any free app to check your grammar in writing?
+1405, Is there any way to stop people from adding me to their WhatsApp group?
+1406, Doesn't Belgaum  lie in India?
+1407, Name Li 'l Abner 's favorite Indian drink .
+1408, Doesn't COGS  stand for Cost of Goods Sold?
+1409, What is the Illinois state flower ?
+1410, Name one of the Seven Wonders of the Ancient World .
+1411, Does RCSI  mean Royal College of Surgeons in Ireland?
+1412, What is SIOP ?
+1413, What direction do most baseball pitchers pitch toward ?
+1414, How would someone go about becoming an organ donor ?
+1415, Is that boy a machine learning professional or a celebrity?
+1416, Is there not a way to block someone's Snapchat story without removing them as a friend?
+1417, When is Bastille Day ?
+1418, Is there a celebrity venture capital firm in India?
+1419, What is a fear of night or darkness ?
+1420, How did shipyard inspector James J. Kilroy designate equipment as being satisfactory ?
+1421, What is `` flintknapping '' ?
+1422, What movie did Steven Spielberg direct in 1975 ?
+1423, What can you be fined for having a dog on a beach ?
+1424, Is there not anyone better than Jiddu Krishnamurti?
+1425, What are the main imports and exports of Venezuela?
+1426, Does CMA  stand for Certified Management Accountant?
+1427, Is there not/has there ever been a governor in a US state who was a member of neither the Democratic or the Republican parties?
+1428, What is the name of a book written by Aaron Hass ?
+1429, Who 's the only U.S. president to have won a Pulitzer Prize ?
+1430, Isn't Bikaner  the capital of India?
+1431, Is there not a cure for sleep paralysis?
+1432, Is that youth a doctor?
+1433, What are some symptoms of a severe crick in the neck?
+1434, Where was George Washington born ?
+1435, What is the legal blood alcohol limit for the state of California ?
+1436, What does Ouija mean ?
+1437, Does AAD  stand for American Association of Dermatology?
+1438, What is the highest numeral that can be got by using exactly 5 fives?
+1439, How much could you rent a Volkswagen bug for in 1966 ?
+1440, What is saltpeter ?
+1441, Doesn't CAPM  mean Capital asset pricing model?
+1442, Does Arrah  belong to India?
+1443, What famed gangland slaughter cut into the membership of Bugs Moran 's outfit ?
+1444, Which comic strip was never turned into a Broadway musical ?
+1445, What well-known TV talk show host was a lay preacher by the time he was seventeen ?
+1446, Is Fenghua  the capital of China?
+1447, Which is the best place to go in Cambridge ?
+1448, Does RBI  stand for Reserve Bank of India?
+1449, What 1966 boob tube bomb took astronauts back to prehistoric times ?
+1450, What country boasts the most cars per mile of road ?
+1451, Is she a doctor or a sportsperson?
+1452, What will the weather be today ?
+1453, What is the problem with controlled fusion?
+1454, Is there a way to download videos from Facebook and Youtube?
+1455, Which is the best place to go in Choloma ?
+1456, Doesn't Bahraich  lie in India?
+1457, Is there not any good tutorial to learn C++ MFC preferably a video tutorial?
+1458, Does APA  mean American Psychiatric Association?
+1459, How long can raw and cooked sausage last refrigerated?
+1460, What stadium do the Miami Dolphins play their home games in ?
+1461, Which mosquito 's bite draws blood   DT NN CC DT NN .
+1462, How tall was the animated King Kong ?
+1463, Is there a way to set speed limiter on a device connected to wifi?
+1464, What causes the redness in your cheeks when you blush ?
+1465, Is that lady not a doctor?
+1466, What is the smallest number that can be got by using exactly 5 fives?
+1467, What are two plants that clothes are made from ?
+1468, What do you call a book of quotes ?
+1469, What is the present Pope named ?
+1470, Is that gentleman a sportsperson or a celebrity?
+1471, What product is for kids   and not for silly rabbits ?
+1472, What is Jimmy Olsen 's full name ?
+1473, How many American actors were nominated for the best actor Oscar for 1983 ?
+1474, Is there a Drug and Alcohol Rehab Center in Juneau County AK?
+1475, Which is the maximum integer we can get using at most 10 sixes?
+1476, Is there not a video of the inside of the Soyuz Spacecraft during re-entry?
+1477, Is there any ayurvedic doctor available for aplastic anemia?
+1478, Which is the smallest integer we can get using at most 10 nines?
+1479, How many stations do you shoot from in the basketball game `` Around the World '' ?
+1480, Is Augsburg  the capital of Germany?
+1481, Who thought he 'd never see a poem lovely as a tree ?
+1482, What is the largest fraction that can be got by using exactly 5 sevens?
+1483, Name the fast food chain with the golden arches .
+1484, Which is the maximum amount we can get using at most 10 nines?
+1485, Who owns the rights on a TV program ?
+1486, Does CMA  stand for Certified medical assistant?
+1487, Why do you love her?
+1488, What is the definition of cosmology ?
+1489, What is RPN ?
+1490, Isn't Cottbus  the capital of Germany?
+1491, Who was the first governor of West Virginia ?
+1492, What is the maximum number that can be got by using exactly 5 fives?
+1493, What is the maximum numeral that can be got by using exactly 5 fours?
+1494, What made the short-lived Star Hawks strip so unique ?
+1495, Is there not any IITian who is a Broker in Stock Market in India currently?
+1496, What is a hydrogen bond ?
+1497, Is that youth an engineer or an architect?
+1498, How do you say I love you in Spanish ?
+1499, Is that man a machine learning professional or a convict?
+1500, What do you call a word that is spelled the same backwards and forwards ?
+1501, Is that person not a convict?
+1502, Who painted the ceiling of the Sistine Chapel ?
+1503, Is there an English Communication test after AMCAT?
+1504, Doesn't Coacalco  lie in Mexico?
+1505, What painter popularized soup cans and Brillo soap pad boxes ?
+1506, Which are the best SSC and banking coaching centers in Chandigarh?
+1507, Does CPA  stand for Certified Public Accountant?
+1508, Is that lady an artist or a carpenter?
+1509, Is she an architect?
+1510, What is the most beautiful thing ever built?
+1511, What is the former name of Zimbabwe ?
+1512, What city is graced by the Arch of Titus ?
+1513, What is a Guild ?
+1514, Is that person a doctor?
+1515, What does JESSICA mean ?
+1516, What city gained renown for its pea-soup fogs ?
+1517, Is there any bug in Quora?
+1518, Is there a sectional cutoff in the CDS exam?
+1519, Which are the best movies of 2016?
+1520, What Tom Wolfe book is about the Mercury astronauts ?
+1521, What Stephen Sondheim ballad ends   `` Well   maybe next year.. . '' ?
+1522, How many years do fossils take to form ?
+1523, What is R&D ?
+1524, How many people watch network television ?
+1525, Is Corona  the capital of United States?
+1526, Doesn't ADA  stand for American Diabetes Association?
+1527, Is there a way to convert from mm to inches on the go in Auto CAD on the go?
+1528, What are some good fractal web sites ?
+1529, How old is the universe ?
+1530, What is the life expectancy of a dollar bill ?
+1531, Which two inventors invented Post-its ?
+1532, Which is the smallest fraction we can get using at most 10 sixes?
+1533, What does BUD stand for ?
+1534, What 's the second-lightest element ?
+1535, Which is the maximum sum we can get using at most 10 threes?
+1536, What day and month did John Lennon die ?
+1537, Does Beihai  lie in China?
+1538, Isn't Bhubaneswar  the capital of India?
+1539, How do I send another person a message on Quora?
+1540, What do the red-and-white stripes on a barbershop pole stand for ?
+1541, Is there not any possibility to increase height after 21?
+1542, Do tourists like to visit Cuernavaca ?
+1543, What is mold ?
+1544, Is Cork  the capital of Ireland?
+1545, What color were their horses ?
+1546, Who was the only U.S. President to wear a Nazi uniform ?
+1547, Which infectious disease kills the most people worldwide ?
+1548, What year was the ATM first introduced ?
+1549, Do tourists like to visit Barranquilla ?
+1550, What was the nickname of model Leslie Hornby ?
+1551, What book did Aaron Hass write ?
+1552, Is there any good Java open source demo project about Design Pattern on GitHub?
+1553, Where is McCarren Airport located ?
+1554, How long does it take the Milky Way Galaxy to make one revolution ?
+1555, What is the hair style called that new military recruits receive ?
+1556, What British TV series inspired All in the Family ?
+1557, How can you contact play producers and promoters on-line ?
+1558, How do you make a paintball ?
+1559, What is the nursery rhyme Rock-a-by Baby about ?
+1560, What U.S. state has the lowest highest elevation at 6 feet ?
+1561, What are snowballs to a hot-rodder ?
+1562, Is there not a mental disorder that causes people not to feel a sense of accomplishment?
+1563, Where 's the GUM department store ?
+1564, What does `` B.Y.O.B. '' mean ?
+1565, Is that girl an architect or a convict?
+1566, Who sells Viagra ?
+1567, What is the maximum amount that can be got by using exactly 5 sixes?
+1568, What university fired Angela Davis ?
+1569, What New England state covers 5.9 square miles ?
+1570, How do you find oxidation numbers ?
+1571, Who is the President of Pergament ?
+1572, What is `` Chicago Hope '' ?
+1573, Who sings the song `` Drink to me with thine eyes '' by Ben Johnson ?
+1574, When was Algeria colonized ?
+1575, What was the highest mountain on earth before Mount Everest was discovered ?
+1576, What is the greatest numeral that can be got by using exactly 5 zeros?
+1577, Is there bull sperms in red bull?
+1578, How many head injuries are there in recreational ice skating each year ?
+1579, Where are the U.S. headquarters for Procter & Gamble ?
+1580, What are John C. Calhoun and Henry Clay known as ?
+1581, What is ANNA ?
+1582, What is another name for vitamin B1 ?
+1583, Doesn't ARRT  mean American Registry of Radiologic Technologists?
+1584, Why are major Indian TV channels absent in northeast?
+1585, In what high-risk business venture did Jimmy the Greek bet and lose ?
+1586, Which is the largest amount we can get using at most 10 twos?
+1587, Who discovered oxygen ?
+1588, What TV series featured Neal   a martini-drinking St. Bernard ?
+1589, What was the minimum wage in 1991 ?
+1590, What is the largest fraction that can be got by using exactly 5 sixes?
+1591, Does RA  stand for Radiologist's assistant?
+1592, How many chemical elements are there ?
+1593, Where is Milan ?
+1594, Where can I find the schematics to the windshield wiper mechanism ?
+1595, What is limbo ?
+1596, Is there a Toastmasters club in Delhi?
+1597, How can I find online spelling   and punctuation drills for my 6th grader ?
+1598, What do flatfish eat ?
+1599, What is the highest sum that can be got by using exactly 5 threes?
+1600, What onetime member of Ronald Reagan 's cabinet called federal policy toward Indians `` an example of the failure of socialism '' ?
+1601, How many milligrams are in a gram ?
+1602, Is that person a celebrity or a convict?
+1603, What makes Black Hills   South Dakota a tourist attraction ?
+1604, When was Calypso music invented ?
+1605, Is there a way to prevent hair Loss?
+1606, Where is the official `` zero '' of the sea level ?
+1607, Does CRN  mean Certified radiology nurse?
+1608, Who was The Pride of the Yankees ?
+1609, Isn't Barcelona  the capital of Venezuela?
+1610, How can I have gay sex?
+1611, Is there any short cut to check if a given point lies on a given line?
+1612, Is that lady a doctor or a carpenter?
+1613, What North American city would you visit to see Cleopatra 's Needle ?
+1614, What is the biggest amount that can be got by using exactly 5 ones?
+1615, Who invented the hula hoop ?
+1616, Don't tourists like to visit Chirala ?
+1617, What is Srpska Krajina ?
+1618, Where is the Rose Bowl played ?
+1619, Who is Charles Lindbergh ?
+1620, Doesn't CBOT  mean Chicago Board of Trade?
+1621, Where is Rider College located ?
+1622, Is there not bull sperms in red bull?
+1623, What 's the difference between sleet and freezing rain ?
+1624, Who is Johnny Carson ?
+1625, Doesn't Dimitrovgrad  belong to Russia?
+1626, Who wrote The Night of the Iguana ?
+1627, What is the largest city in the U.S. ?
+1628, What does the abbreviation IOC stand for ?
+1629, How many Fig Newtons are there to the pound ?
+1630, How many people lived in Nebraska in the mid 1900s ?
+1631, What is the smallest integer that can be got by using exactly 5 zeros?
+1632, In which year was New Zealand excluded from the ANZUS alliance ?
+1633, Does SHO  mean Senior house officer (UK)?
+1634, Where was helium first discovered   hence its name ?
+1635, Is there not a currently evolving tendency towards nasty  trashy behavior in sports?
+1636, What does the Statue of Liberty wear on her feet ?
+1637, What year did the United States abolish the draft ?
+1638, How many grooves are on a dime ?
+1639, Who designed London Bridge ?
+1640, Doesn't ACP  stand for American College of Physicians?
+1641, What percentage of American men are alcoholic ?
+1642, When was the last major eruption of Mount St. Helens ?
+1643, What is the name of the deranged super-criminal Otto Octavius uses ?
+1644, What is a fear of jealousy ?
+1645, What actor and World War II airman had a $5   0 bounty put on his head by Hermann Goering ?
+1646, Is there not a way to get back on Amazon after a seller's account has been banned?
+1647, Which is the maximum amount we can get using at most 10 eights?
+1648, What is metabolism ?
+1649, What do sailors use to measure time ?
+1650, Where can I buy a good snowboard for less than $200 ?
+1651, How much weight do I lose by purging after every time I eat?
+1652, Do tourists like to visit Dujiangyan ?
+1653, Which is the biggest integer we can get using at most 10 sixes?
+1654, Is there proof of extra terrestrial life?
+1655, Is that lady not a convict?
+1656, What is the name of the disease that actress Hunter Tylo 's baby girl has ?
+1657, Which are the best part-time jobs to do in Bangalore?
+1658, Does CSI  mean Continual Service Improvement?
+1659, What was lost and regained by poet John Milton ?
+1660, What is the origin of thank you notes ?
+1661, What group starred in the movie Rock Around the Clock ?
+1662, Where do quality drinks begin ?
+1663, Is there a word for someone who is food-greedy?
+1664, What is the classic definition of tragic hero ?
+1665, Does ANNA  stand for American Nephrology Nurses' Association?
+1666, Is there not a way to get taller  and increase your height?
+1667, How much does it cost to have a tree planted by dialing   900   740-TREE ?
+1668, What film or films has Jude Law appeared in ?
+1669, Is there a difference between a Refrigeration Mechanic vs an HVAC Technician?
+1670, Is there any part of the body where people DON'T get cancer?
+1671, Is that gentleman a sportsperson or a convict?
+1672, Name the child left on a doorstep at the beginning of Gasoline Alley .
+1673, Why did Europeans first come to Australia and Oceania ?
+1674, What is the difference between optical and digital video ?
+1675, What two major world religions began in India ?
+1676, Is there a max/limit on the number of blogs you can follow on Tumblr?
+1677, Doesn't Algeciras  belong to Spain?
+1678, Which is the worst place to go in  Daska ?
+1679, Is there not any software/app that allows me to remotely control my friends' smartphones from my smartphone?
+1680, Is there not any chances of getting admission in IIMS as I have just graduated and no work experience?
+1681, What is Dick Clark 's birthday ?
+1682, Is there any sense to have registered company (LLC or Inc) before going to VC  if you have no clients?
+1683, What is the difference between a median and a mean ?
+1684, Does SpR  mean Specialist registrar (UK)?
+1685, Is there evidence for animals other than man choosing to not reproduce?
+1686, What can be done about snoring ?
+1687, Does CAPM  stand for Capital asset pricing model?
+1688, What new year is celebrated on February 16th ?
+1689, Is there any cab service available at London City Airport?
+1690, What 's the world 's longest suspension bridge ?
+1691, Is there a market for a solar powered TVs for camping trips?
+1692, Which company created the Internet browser Mosaic ?
+1693, Which is the greatest integer we can get using at most 10 threes?
+1694, What were the first three cities to have a population of more than a million ?
+1695, What 's the percentage of children aged two through eleven who watch ` 'The Simpsons ' ?
+1696, What does INRI stand for when used on Jesus ' cross ?
+1697, Where did the ukulele originate ?
+1698, What is white chocolate ?
+1699, What name does the world know Renaissance artist Kyriakos Theotokopoulos by ?
+1700, What are some of the most amazing concepts given by theoretical physicists?
+1701, Which is the largest clock   diameter wise   in Europe ?
+1702, Is there not any search or browse facility for the questions on Quora?
+1703, What is CAGR ?
+1704, What is the largest sum that can be got by using exactly 5 sevens?
+1705, Which is the highest integer we can get using at most 10 sixes?
+1706, Which is the smallest fraction we can get using at most 10 ones?
+1707, What is the highest numeral that can be got by using exactly 5 nines?
+1708, Is there not a chance that the faithless electors can change the result of 2016 US presidential election on December 19th 2016?
+1709, Doesn't Dire Dawa  belong to Ethiopia?
+1710, When were fish first believed to be found on earth ?
+1711, What is an arab strap ?
+1712, What multitalented Academy-award-winning director failed a college course in motion-picture production ?
+1713, Is there any connection between Arnab Goswami quitting Times Now and the 1 day ban on NDTV India?
+1714, Do tourists like to visit Aachen ?
+1715, What did Louis Cartier invent for aviator Santos Dumont in 1940 ?
+1716, Is there any way to automatically like Instagram photos with hashtags  using software?
+1717, What did the Chinese emperor present to the English soldier Gordon in recognition of his services in quelling rebellions ?
+1718, Which is the best place to go in Bochum ?
+1719, Which is the biggest number we can get using at most 10 ones?
+1720, How do companies cut paper so thin ?
+1721, How should I prepare for HSBC GLT placement tests?
+1722, What is the most accurate wearable item for activity  on the market today?
+1723, What are the good websites to learn C programming for begineer?
+1724, What singer 's hit song inspired the Dolly Parton Stallone movie Rhinestone ?
+1725, What are some movies that everyone needs to watch at least once in life?
+1726, What does the name Gina mean ?
+1727, Does CIO  mean Chief Information Officer or Chief Investment Officer?
+1728, Who wrote The Ugly Duckling ?
+1729, What 's the difference between TFT and dual-scan display ?
+1730, Who recorded the 1957 hit Tammy ?
+1731, Which is the best place to go in Anqing ?
+1732, How many minutes of cardio a day should I do?
+1733, How do I write a song?
+1734, What 's the common name for acetylsalicylic acid ?
+1735, What is the minimum number that can be got by using exactly 5 fives?
+1736, What is ROIC ?
+1737, What did n't Rocky Marciano do in his pro boxing career ?
+1738, Who founded the modern theory of probability ?
+1739, Which is the least amount we can get using at most 10 twos?
+1740, Is there a swimming pool where dogs can swim in Ahmedabad or any other outdoor activities?
+1741, Doesn't C&F  mean Cost With Freight?
+1742, Is there not a healthy and safe way to lose about 20 pounds in a month and keep it off?
+1743, What Caribbean cult did Marcus Garvey originate ?
+1744, Is there not an app that can be used to run a custom rest API calls?
+1745, Why do I not feel remorse?
+1746, What is ASRT ?
+1747, What crop failure caused the Irish Famine ?
+1748, What is the biggest numeral that can be got by using exactly 5 twos?
+1749, Does RPhT  stand for Registered pharmacy technician?
+1750, What is e-coli ?
+1751, Which is the best place to go in Angeles City ?
+1752, What was the claim to fame of the football game that saw Fordham defeat Waynesburg State 12601 on September 3   1939 ?
+1753, Doesn't CMA  mean Certified medical assistant?
+1754, Which is the smallest fraction we can get using at most 10 sevens?
+1755, Is there any NGO in Mumbai for which I can work/volunteer?
+1756, What soft drink held a national flavor poll in 1967 ?
+1757, What is a virtual IP address ?
+1758, Does EBITA  stand for Earnings before interest and taxes and amortization?
+1759, How many layers of yellow paint is a Faber Mongol pencil lucky enough to be sprayed with ?
+1760, Doesn't ARA  mean American Rheumatological Association?
+1761, Is there a job board site where employers hire and sponsor visas for employees internationally?
+1762, What person 's head is on a dime ?
+1763, Is there not a way to quickly increase your height?
+1764, How did Peabody and Sherman travel through time ?
+1765, What is a fear of hell ?
+1766, Who retired with 755 home runs to his credit ?
+1767, What is the largest fraction that can be got by using exactly 5 fours?
+1768, What 's the name of Pittsburgh 's baseball team ?
+1769, Which is the best place to go in Danjiangkou ?
+1770, How old was Stevie Wonder when he signed with Motown Records ?
+1771, Is that person a carpenter or a celebrity?
+1772, Is there a systematic way to learn about classical music?
+1773, Why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ?
+1774, Is there not any software where I can practice technical analysis for the stock market using chart?
+1775, What is the greatest numeral that can be got by using exactly 5 fours?
+1776, What is the definition of hazmat ?
+1777, Doesn't RCP  stand for Royal College of Physicians?
+1778, What 's the second-highest mountain in the world ?
+1779, Does CMO  stand for Chief Marketing Officer?
+1780, Doesn't Arequipa  lie in Peru?
+1781, What is the active ingredient in baking soda ?
+1782, Doesn't EDI  mean Electronic Data Interchange?
+1783, What city was Bobby Kennedy assassinated in ?
+1784, What is the biggest amount that can be got by using exactly 5 zeros?
+1785, What are genders?
+1786, Is there not a universal element?
+1787, How much will the California be in the year 2000 ?
+1788, What kind of fish is a coney ?
+1789, Does web Methods has future after 5 to 10 years from now?
+1790, Do tourists like to visit Chicago ?
+1791, Does UDC  stand for University Disability Consortium?
+1792, Which is best music player under 5000 inr?
+1793, Is there a way to develop photographic memory?
+1794, How do I start solar energy business?
+1795, Who holds the NFL record for most touchdowns in a season ?
+1796, What are the 28 tenses in the English language ?
+1797, What is CRNA ?
+1798, What were the last names of gangsters Bonnie and Clyde ?
+1799, Is there a way on Quora to ask why a specific question was marked as needs improvement?
+1800, Is there a big chance that Trump will win the election?
+1801, Does ASMI  mean Australian Self-Medication Industry?
+1802, Which is the largest integer we can get using at most 10 zeros?
+1803, Where is the Kentucky Horse Park ?
+1804, Don't tourists like to visit Dalian ?
+1805, Is there not a website dedicated to customer complaints?
+1806, Is that youth a doctor or an architect?
+1807, When not adventuring on Rann   what does Adam Strange call his profession ?
+1808, What is the greatest integer that can be got by using exactly 5 fours?
+1809, Who replies `` I know '' to Princess Leia 's confession `` I love you '' in The Empire Strikes Back ?
+1810, Is that boy an engineer or an architect?
+1811, Who was the star of the 1965 Broadway hit Golden Boy ?
+1812, Does ACP  mean Advanced Care Paramedic (Canada)?
+1813, Is there not proof of extra terrestrial life?
+1814, How successful is arometherapy ?
+1815, What United States President had dreamed that he was assassinated ?
+1816, How old was the youngest president of the United States ?
+1817, Doesn't Coimbra  lie in Portugal?
+1818, When was Thomas Jefferson born ?
+1819, What was the name of Betty Boop 's dog ?
+1820, Is there not a way to force myself to study?
+1821, Is that gentleman a celebrity?
+1822, Is there a USB hub in the market that allows for wirelessly connecting a USB mouse and keyboard to a laptop using Wifi or bluetooth?
+1823, Is there not no proof of funds requirement for immigration to the US?
+1824, Is there any legitimate reasons for Hitler hating Jews?
+1825, What is the best online games site ?
+1826, What is the minimum amount that can be got by using exactly 5 threes?
+1827, Is there not any connection between Arnab Goswami quitting Times Now and the 1 day ban on NDTV India?
+1828, How can I get some free technical information on Electric Vehicle ?
+1829, What was the reason for the partition of the Anglican and Vatican churches ?
+1830, What qualifications are there for individuals donating blood ?
+1831, Does Dili  belong to Timor-Leste?
+1832, Is there a cure for acne?
+1833, Doesn't STSC  stand for Soft tissue sarcoma committee?
+1834, Does NCI  mean National Cancer Institute?
+1835, Why do many Native American students not complete college ?
+1836, Where can an individual get a contact lens tested that burned the entire surface of eye when new ?
+1837, What is a leper ?
+1838, Does APGAR  mean American Pediatric Gross Assessment Record (a backronym)?
+1839, What is CAPM ?
+1840, What African capital is named for a U.S. president ?
+1841, Which is heavier - cream or milk ?
+1842, Is there not any website where I can talk online to a psychologist for free?
+1843, Which is the minimum number we can get using at most 10 nines?
+1844, Is that woman a celebrity?
+1845, Does CfWI  mean Centre for Workforce Intelligence?
+1846, Doesn't CAMT  mean Canadian Association of Music Therapy?
+1847, Which killer whale died at Sea World of a fungal infection ?
+1848, Doesn't AOBEM  stand for American Osteopathic Board of Emergency Medicine?
+1849, On what avenue is the original Saks department store located ?
+1850, What is the cultural origin of the ceremony of potlatch ?
+1851, Is there not a way to find out who created an Instagram page?
+1852, Doesn't RPN  stand for Registered psychiatric nurse?
+1853, Is there not such thing as false positive pregnancy test?
+1854, What is CFS ?
+1855, Who is the president of the Spanish government ?
+1856, Is there any good widget apps on Android?
+1857, Which is the smallest fraction we can get using at most 10 threes?
+1858, Is there a customer service phone number for Bitdefender antivirus?
+1859, What caused an adjournment of the 25th anniversary session of the United Nations General Assembly ?
+1860, What are the statistics for drunken drivers in Maryland ?
+1861, What species is a colt ?
+1862, What is the approximate population of Las Vegas   N.M ?
+1863, What time of year is air travel the heaviest ?
+1864, Who are the presidents of Mexico and Indonesia ?
+1865, Which is the biggest amount we can get using at most 10 ones?
+1866, What city had a world fair in 1900 ?
+1867, Is there any add-on tool to automate the web UI for Google Maps using a Selenium web driver?
+1868, How does lightning travel ?
+1869, Who followed Willy Brandt as chancellor of the Federal Republic of Germany ?
+1870, Is there not a good online course for operating systems being offered?
+1871, What causes an earthquake ?
+1872, What made Jane Goodall famous ?
+1873, What did Lenny Bruce say that got him arrested ?
+1874, What is the connection between New Krypton and Daxam ?
+1875, What does `` Philebus-like '' mean ?
+1876, Is there a way to adjust the playback speed in the YouTube Android app?
+1877, Is there any software where I can practice technical analysis for the stock market using chart?
+1878, What is CSO ?
+1879, Does R&D  mean Research and Development?
+1880, Who was Gerald Ford 's vice president ?
+1881, Is that youth a doctor or a machine learning professional?
+1882, How far out is the universe ?
+1883, What was the verdict in the trial of Lizzie Borden ?
+1884, What city 's newspaper is called `` The Enquirer '' ?
+1885, Why is it called `` hamburger '' if there is no ham in it ?
+1886, Is there not A 32-bit version of Android M 6.0?
+1887, How do I lose weight without doing exercise or diet?
+1888, How do you feel about the new MacBook Pro  late 2016?
+1889, Where did the Inuits live ?
+1890, Doesn't CDAAC  mean Communicative Disorders Assistant Association of Canada?
+1891, What is the most important nation in the world   historically ?
+1892, Why do the chickenpoxs last so long ?
+1893, Is there any SEO expert?
+1894, Who claimed he killed 4   280 buffalo as food for the crew building the Kansas Pacific Railway ?
+1895, Is there not a vape that doesn't look like a vape?
+1896, What president kissed the Queen Mother on the lips ?
+1897, Who invented the electric guitar ?
+1898, Does AACN  stand for American Association of Critical-Care Nurses?
+1899, Is there any research on low-dose SSRI use for autistic people?
+1900, Is he a doctor or an engineer?
+1901, What is the minimum numeral that can be got by using exactly 5 ones?
+1902, What novel inspired the movie BladeRunner ?
+1903, Which is the best place to go in Fukushima ?
+1904, What is a country that starts with the letter x ?
+1905, Is there any particular reason(s) why Kompas Media (online  print and TV) has been vigorously attacking Ahok  current Governor of Jakarta?
+1906, What do you call a professional map drawer ?
+1907, What is the smallest sum that can be got by using exactly 5 sevens?
+1908, Doesn't RCOG  mean Royal College of Obstetricians and Gynaecologists?
+1909, Is there not a 1 handed ASL app?
+1910, Which of the following was Rhodes Scholar ?
+1911, Which airplane was Fawaz Younis convicted of hijacking ?
+1912, Is there a scientific name for what existed before the Big Bang?
+1913, What auto race was Wilbur Reed the first to win three times ?
+1914, What is the difference between the Koran and The Bible ?
+1915, Doesn't CAOT  stand for Canadian Association of Occupational Therapists?
+1916, Which is the worst place to go in  Dayton ?
+1917, Name Randy Craft 's lawyer .
+1918, Whom did the Chicago Bulls beat in the 1993 championship ?
+1919, Is that man an artist or a convict?
+1920, Is that lady a doctor or a celebrity?
+1921, Doesn't AA  stand for Alcoholics Anonymous?
+1922, How fast do cheetahs run ?
+1923, Is there any possibility of anyone joining in the post of Assistant Trainee engineer at Tata Steel to become permanent employee of that organisation?
+1924, Is there not a difference between anxiety attacks and panic attacks?
+1925, Doesn't RSN  mean Renal support network?
+1926, Who are the best custom kiosk manufacturers in India?
+1927, Which is the smallest sum we can get using at most 10 threes?
+1928, What is working hard in terms of studying?
+1929, Where in the United States do people live the longest ?
+1930, Where is Trinidad ?
+1931, Doesn't RFX  mean Generic name for a Request for Information  Proposal or Quotation?
+1932, What game do Steve McQueen and Edward G. Robinson play in The Cincinnati Kid ?
+1933, What is the greatest fraction that can be got by using exactly 5 fives?
+1934, Does SpR  stand for Specialist registrar (UK)?
+1935, Doesn't Ajax  lie in Canada?
+1936, Is she a doctor or a convict?
+1937, Does CMA  mean Certified Management Accountant?
+1938, What is the highest sum that can be got by using exactly 5 sixes?
+1939, Does Carrollton  lie in United States?
+1940, Who were the only two bald U.S. Presidents ?
+1941, Is he an artist or an architect?
+1942, What does HIV stand for ?
+1943, Is there not any question never asked on Quora yet?
+1944, What is the minimum amount that can be got by using exactly 5 sixes?
+1945, What is the least sum that can be got by using exactly 5 fours?
+1946, What TV series saw many of its aquatic scenes shot at Silver Springs   Florida ?
+1947, Doesn't Astana  belong to Kazakhstan?
+1948, What was the proper Laugh-In respones to   `` Say goodnight   Dick '' ?
+1949, What is the S&P 500 used for ?
+1950, Is there any way to save Quora questions to read offline?
+1951, Which is the greatest numeral we can get using at most 10 twos?
+1952, How does crosstalk relate to InSb thickness in infrared detectors ?
+1953, What country is the origin of the band the Creeps ?
+1954, Does CCS  mean Canadian Cardiovascular Society?
+1955, What year did Degas create the bronze sculpture   `` Fourth Position Front ?
+1956, Is that lady an engineer or a carpenter?
+1957, What is the fastest-growing comic strip of all time ?
+1958, Does CASLPO  mean College of Audiologists and Speech-Language Pathologists of Ontario?
+1959, Is there not a software or website to receive every second oil news?
+1960, Which is the maximum number we can get using at most 10 fives?
+1961, How many Israeli athletes were killed at the Munich Olympics ?
+1962, Does Bacoor  lie in Philippines?
+1963, Is there not a Drug and Alcohol Rehab Center in Juneau County AK?
+1964, How many inches tall is Stuart Little at birth ?
+1965, How many men died building the Mackinaw Bridge ?
+1966, Is he a doctor or a carpenter?
+1967, Is that person a sportsperson?
+1968, Doesn't Alexandria  belong to Egypt?
+1969, What is hypnotherapy ?
+1970, How old was Joan of Arc when she died ?
+1971, In what area of the world was the Six Day War fought ?
+1972, What 's the highest possible bid in Contract Bridge ?
+1973, Which is the maximum amount we can get using at most 10 ones?
+1974, How many yards are in 1 mile ?
+1975, Doesn't Dezful  lie in Iran?
+1976, What city is also known as `` The Gateway to the West '' ?
+1977, Which is the greatest sum we can get using at most 10 nines?
+1978, Is there a way to extract the audio files from the OSX's Mixlr app?
+1979, In what year was De Gaulle elected president of France ?
+1980, Which is the best place to go in Camaragibe ?
+1981, How many sperm cells are in an average ejaculation ?
+1982, Which is the largest numeral we can get using at most 10 eights?
+1983, Does NREMT  mean National Registry of Emergency Medical Technicians(ORG)?
+1984, What kind of hat does Bat Masterson wear ?
+1985, Which is the greatest amount we can get using at most 10 sixes?
+1986, Who was the president of Vichy France ?
+1987, Where is Santa Lucia ?
+1988, Is there a black hole at the center of every galaxy?
+1989, What are the factors leading to the high teen pregnancy rate in Spartanburg   South Carolina ?
+1990, Does ECGC  stand for Export Credit Guarantee Corporation of India?
+1991, What is the acronym for the National Bureau of Investigation ?
+1992, What river is Windsor Castle on ?
+1993, Where are the headquarters of Eli Lilly ?
+1994, Is there not a distinct difference  in terms of certain areas showing more activity than others  in a person's neurological activity when they give the answer to a yes or no question  no matter what the question is  even if a 'yes' answer means a negative outcome  or vice versa?
+1995, Is Aligarh  the capital of India?
+1996, What is the recipe for Eggs Benedict ?
+1997, What is proposition 98 about ?
+1998, What is the biggest number that can be got by using exactly 5 threes?
+1999, When is the official first day of summer ?
+2000, What is the minimum sum that can be got by using exactly 5 fives?
+2001, How does a small businessman contact the Good Humor Ice Cream company to do business with them ?
+2002, What city boasts Penn 's Landing   on the banks of the Delaware river ?
+2003, Which is the worst place to go in  Beaumont ?
+2004, What is CAR ?
+2005, What flag flies over Wake Island ?
+2006, What is infomatics ?
+2007, Doesn't AMA  stand for American Medical Association?
+2008, What is the least integer that can be got by using exactly 5 sevens?
+2009, What year was the NAACP founded ?
+2010, How do you make dumplings ?
+2011, What is strep throat ?
+2012, Which is the smallest amount we can get using at most 10 nines?
+2013, What is CAD ?
+2014, What is a dangling participle ?
+2015, Does CASLPO  stand for College of Audiologists and Speech-Language Pathologists of Ontario?
+2016, Does CBOT  mean Chicago Board of Trade?
+2017, What is the difference between jazz and blues ?
+2018, What major airline has the best safety record in the world ?
+2019, What does the abbreviation cwt. ?
+2020, What Asian country has a bill of rights for cows ?
+2021, What harmful chemicals are in bug spray ?
+2022, What animal received royal assent as an emblem of Canada on March 24   1975 ?
+2023, How do you get cell phone numbers?
+2024, Is there not any mobile app through which I can download music?
+2025, Is there a PDF available listing the rules to crack the GMAT sentence correction?
+2026, Is there a package in Python that can check if a string of letters is a word?
+2027, Is there a site where I can practice writing in cursive?
+2028, Does NREMR  stand for National Registry Emergency Medical First Responder (NREMR)?
+2029, Is there a way to email my Viber message history and keep the messages on the phone?
+2030, What is the temperature of the sun 's surface ?
+2031, What does A&W of root beer fame stand for ?
+2032, Doesn't NKF  mean National Kidney Foundation?
+2033, Which is the worst place to go in  Antakya ?
+2034, What are the benefits of home school ?
+2035, How far away is the moon ?
+2036, Who killed Martin Luther King ?
+2037, What letter is to the right of K on a typewriter keyboard ?
+2038, What is ECGC ?
+2039, What is COG ?
+2040, What famous soldier was born in Europe   died in Asia   and was laid to rest in Africa ?
+2041, Why did British engineering and manufacturing skills decline so dramatically in the 60s  70s and 80s  especially when compared with Germany's?
+2042, What are the top five oil-producing countries in the world ?
+2043, What did brontosauruses eat ?
+2044, Is Dongguan  the capital of China?
+2045, How many children does Ray Davies of the Kinks have ?
+2046, Does NEJM  mean New England Journal of Medicine?
+2047, How does rabies spread ?
+2048, Is that girl a carpenter or a machine learning professional?
+2049, Isn't Bidar  the capital of India?
+2050, Is there not a real femdom in chandigarh who can use strapon?
+2051, What is the recomended age to switch a child from a crib to a bed ?
+2052, Who was Picasso ?
+2053, Is there not a breakdown of viewers per day and Fox News' average income per viewer based on Ad Revenue and Cable Revenue?
+2054, Don't tourists like to visit Fujinomiya ?
+2055, Which is the maximum sum we can get using at most 10 fives?
+2056, Does Aktobe  belong to Kazakhstan?
+2057, Is there not someone of senior legal experience in the UK who would review a summary and advise what next?
+2058, Is there not life elsewhere in the universe?
+2059, Which is the maximum number we can get using at most 10 sevens?
+2060, What title did Shevardnadze have during the Soviet era ?
+2061, How is an executioner determined ?
+2062, What is a Canada two-penny black ?
+2063, Is there a way to edit your question details before submitting the question first?
+2064, What does e=mc2 mean ?
+2065, What 's the tallest building in New York City ?
+2066, What do the names Andrew and Christina mean ?
+2067, What is the greatest integer that can be got by using exactly 5 nines?
+2068, When was Nostradamus born ?
+2069, Is there any site avilable through which I can earn Flipkart and Amazon shopping vouchers just working 1-2 hour on weekends?
+2070, What are the Baltic States ?
+2071, Does AAO  stand for American Academy of Ophthalmology?
+2072, What country borders the most others ?
+2073, Does Raqqa  lie in Syria?
+2074, Is there a maximum age for leasing (not renting) a car in the U.S.?
+2075, Doesn't Ensenada  lie in Mexico?
+2076, Who was the first actress to appear on a postage stamp ?
+2077, What baseball player was known as Charley Hustle ?
+2078, How do I write to my Congressman ?
+2079, Is that boy a sportsperson or a celebrity?
+2080, What is CFA ?
+2081, How would Trump presidency affect Indian students in the US?
+2082, What is CRM ?
+2083, What 's the word for broken glass or sharp rocks embedded in cement on top of a wall ?
+2084, Is that gentleman an engineer or a celebrity?
+2085, What is Candlemas Day ?
+2086, Is there a way to exercise without gaining muscle?
+2087, Is there any prevailing discrimination in the foreign universities of Germany between international and EU students?
+2088, What is ANA ?
+2089, Why do people get goosebumps when they have something emotional happen to them   like when they hear a beautiful piece of music   or see something beautiful   or get aroused by someone they love ?
+2090, What islands got their name from the Spanish baja mar   meaning shallow water ?
+2091, What 's the sacred river of India ?
+2092, What was the name of the lawyer who represented Randy Steven Craft ?
+2093, Where is the Orinoco River ?
+2094, Are Quorans supportive of Modi?
+2095, Is there any link between Missile test and heavy rain?
+2096, Doesn't CAG  mean Canadian Association of Gerontology?
+2097, What is the maximum integer that can be got by using exactly 5 zeros?
+2098, Is there not an RSS feed for one's GetSatisfaction profile?
+2099, Is he a machine learning professional?
+2100, Does CCOHS  mean Canadian Centre for Occupational Health?
+2101, What is the purpose of the SysRq key on my computer keyboard ?
+2102, How do you determine if a computer monitor has an SVGA adapter ?
+2103, What does Salk vaccine prevent ?
+2104, Is that gentleman an engineer or an architect?
+2105, What is California 's capital ?
+2106, What is the greatest fraction that can be got by using exactly 5 twos?
+2107, Does Baishan  belong to China?
+2108, Is there not a word in any language to describe the anger and rage  for someone who passed away  for leaving you all alone?
+2109, Doesn't Bhagalpur  belong to India?
+2110, What is June 's birthstone ?
+2111, Is there not any consultancy which takes money and get you placed?
+2112, What is the biggest sum that can be got by using exactly 5 nines?
+2113, How many people are taller than 7 feet ?
+2114, Why is hockey so violent ?
+2115, Does RCN  stand for Royal College of Nursing?
+2116, Where in the Bible does it tell about Jesus Christ 's brothers and sisters ?
+2117, What country was Mikhail Gorbachev the leader of ?
+2118, When was the first Wall Street Journal published ?
+2119, Which is the least numeral we can get using at most 10 fives?
+2120, Is there not an easy way to import Outlook PST files to Gmail?
+2121, Doesn't EFTPOS  mean Electronic Funds Transfer at Point of Sale?
+2122, Is there not any side effect of Protinex powder?
+2123, Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ?
+2124, Doesn't Baia Mare  lie in Romania?
+2125, What was the eighth day following the Nones in each month of the Roman calendar called ?
+2126, What year did Rossetti paint `` Beata Beatrix '' ?
+2127, What are the animals that don 't have backbones called ?
+2128, Is there a war coming?
+2129, Who is the prime minister in Norway ?
+2130, Who is the current UN Secretary General ?
+2131, Is there a school student union in India?
+2132, What two US biochemists won the Nobel Prize in medicine in 1992 ?
+2133, Who is the monarch of the United Kingdom ?
+2134, What is the Milky Way ?
+2135, Doesn't CASLPA  mean Canadian Association of Speech-Language Pathologists and Audiologists?
+2136, Which is the greatest fraction we can get using at most 10 sevens?
+2137, Does ETA  mean Estimated Time of Arrival?
+2138, What measures did Clinton take to avoid the draft ?
+2139, Which is the minimum number we can get using at most 10 threes?
+2140, What mountain range marks the border of France and Spain ?
+2141, What countries have the most auto thefts ?
+2142, Who is currently the most popular singer in the world ?
+2143, What is phosphorus ?
+2144, What is the greatest fraction that can be got by using exactly 5 threes?
+2145, Is there not any college which offers a full-time digital marketing course in India?
+2146, What does Robert mean ?
+2147, Is that woman not a doctor?
+2148, What is vertigo ?
+2149, What is a fear of money ?
+2150, Does NRAEMT  stand for National Registry Advanced Emergency Medical Technician (NRAEMT)?
+2151, What 1950 film won seven Oscars   including best picture ?
+2152, Where did the term `` 86ed '' come from ?
+2153, What is RBA ?
+2154, What should I do when my friends betray me?
+2155, Does CIO  stand for Chief Information Officer or Chief Investment Officer?
+2156, Is there any negative marking in the D.El.Ed entrance exam 2016?
+2157, Who stopped making diary entries on May 31   1669   because he thought he was going blind ?
+2158, What is the name of the song that Dracula plays on the organ ?
+2159, Is there not anywhere in the world offering pain management for peripheral neuropathy as opioids haved been banned in US?
+2160, Who wrote the book   `` Song of Solomon '' ?
+2161, Is that gentleman an artist or a celebrity?
+2162, What new games are available for Nintendo 64 ?
+2163, What is a person called that likes fire ?
+2164, Is that boy an artist or a scientist?
+2165, Of children between the ages of two and eleven   what percentage watch `` The Simpsons '' ?
+2166, What did Jimmy Stewart invent ?
+2167, Does CSA  stand for Certified surgical assistant?
+2168, Which police department made the largest cocaine seizure ever in Ventura County ?
+2169, What is the meaning and purpose to life?
+2170, Is that youth a machine learning professional?
+2171, Where can I find correct tabs for Third Eye Blind songs ?
+2172, Does CAP  stand for College of American Pathologists?
+2173, What is the highest number that can be got by using exactly 5 fives?
+2174, What king was forced to agree to the Magna Carta ?
+2175, Is that woman a doctor or a celebrity?
+2176, Do tourists like to visit Aarhus ?
+2177, Who portrayed Fatman in the television show   `` Jake and the Fatman '' ?
+2178, Is there not a treatment for erectile dysfunction?
+2179, What award is the `` Oscar '' of advertising ?
+2180, What are the four railways in Monopoly ?
+2181, Where is it planned to berth the merchant ship   Lane Victory   which Merchant Marine veterans are converting into a floating museum ?
+2182, Is there not such a place where the super rich want to help college students with their tuition and donate in exchange for a sincere thank you note/personal art for those who are working full time/school full time?
+2183, When were the Olympic Games in which Nadia Comaneci became popular played ?
+2184, How many Americans fought for the British in the American Revolution ?
+2185, What is acetic acid ?
+2186, Is there a non-circular introduction to Mathematics?
+2187, What is the largest fraction that can be got by using exactly 5 nines?
+2188, What is a cake of soap ?
+2189, Doesn't RT  mean Radiologic technologist?
+2190, Is there not any proof of the existence of aliens?
+2191, What is the maximum fraction that can be got by using exactly 5 fives?
+2192, What is RMA ?
+2193, Doesn't ACP  mean Advanced Care Paramedic (Canada)?
+2194, What 's the largest letter in Salvador Dali 's signature ?
+2195, What cards are bullets ?
+2196, Who 's the twin brother of the Greek goddess Artemis ?
+2197, What chocolate company gives you a one-pound kiss ?
+2198, Don't tourists like to visit Dzerzhinsk ?
+2199, What do you call a Poker hand with five cards of the same suit ?
+2200, Is there not any easy way to identify the app used to edit a picture or add an effect to it?
+2201, Is World War 3 more imminent than expected?
+2202, What country was Kim Philby really working for ?
+2203, What percentage of the world 's plant and animal species can be found in the Amazon forests ?
+2204, What is the maximum amount that can be got by using exactly 5 nines?
+2205, Is that woman a sportsperson?
+2206, How do you pronounce `` Tzimisce '' ?
+2207, Is there not any relation between the ventricular systolic period and heart rate?
+2208, Is there not any women organisation in Hyderabad which supports women's against domestic violence?
+2209, Which produces the longer sperm - an elephant or a mouse ?
+2210, What is the highest sum that can be got by using exactly 5 fours?
+2211, Does CFA  stand for Chartered Financial Analyst?
+2212, Why is the sun yellow ?
+2213, When was Abraham Lincoln born ?
+2214, Who was the first king of England ?
+2215, What is the most useful site on the Internet ?
+2216, What is the Auto insurance Broker fee in CALIFORNIA?
+2217, Doesn't Copenhagen  belong to Denmark?
+2218, What happened in the Long March ?
+2219, Is there not an app that can send automated WhatsApp messages?
+2220, Doesn't CISA  mean Certified Information Systems Auditor?
+2221, Which is the smallest sum we can get using at most 10 ones?
+2222, Doesn't ETD  stand for Estimated Time of Delivery?
+2223, What longtime game show host dropped dead while jogging in Central Park in 1984 ?
+2224, What is the greatest numeral that can be got by using exactly 5 eights?
+2225, What is RCP ?
+2226, What game is fatal to anybody over 21 ?
+2227, What are Quaaludes ?
+2228, Is there any Arabic text-to-speech that can read loud on Android?
+2229, Which is the largest amount we can get using at most 10 ones?
+2230, What developed a crack in 1835 while tolling the death of U.S. Chief Justice John Marshall ?
+2231, How does marl form and what mineral does it contain ?
+2232, Who created Maudie Frickett ?
+2233, Does APA  stand for American Psychiatric Association?
+2234, Who was Jane Goodall ?
+2235, Is there a good online course for operating systems being offered?
+2236, What is fibromyalgia ?
+2237, Which is the best place to go in Danao City ?
+2238, Name a flying mammal .
+2239, Who makes the `` Die Hard '' car battery ?
+2240, Is that lady not an architect?
+2241, What are the three most successful companies of our time ?
+2242, How many acres in a mile ?
+2243, What did Aaron Hass write ?
+2244, What are liver enzymes ?
+2245, Who wrote the lyrics to Porgy and Bess ?
+2246, What is the location of Edinburgh   Scotland ?
+2247, What did Englishman John Hawkins begin selling to New World colonists in 1562 ?
+2248, What is the conversion rate between dollars and pounds ?
+2249, Is there an evolutionary explanation for embarrassment?
+2250, Is that youth an architect or a scientist?
+2251, What President 's favorite Biblical quotation was   `` Come now   and let us reason together '' .
+2252, What is the medical term for cancer of the blood ?
+2253, What colors is magenta made of ?
+2254, What is the greatest number that can be got by using exactly 5 fours?
+2255, Doesn't EOD  mean End Of the Day?
+2256, Is that girl a carpenter or a convict?
+2257, Which is the best place to go in Chizhou ?
+2258, Why do pressure cookers save time in the kitchen ?
+2259, Isn't Bielefeld  the capital of Germany?
+2260, Is that person an engineer or a convict?
+2261, Is there not any way to extend the lifespan of the sun?
+2262, What is the least numeral that can be got by using exactly 5 sixes?
+2263, What future President became Senate majority whip under Harry Truman ?
+2264, Doesn't Akita  lie in Japan?
+2265, What is the origin of the midwest slang   ` you 're darn tootin ' ?
+2266, Doesn't ACR  stand for American College of Rheumatology?
+2267, Is that man a scientist or a machine learning professional?
+2268, How many colleges are in Wyoming ?
+2269, Does Esfahan  belong to Iran?
+2270, Is there a downloadable Java tutorial?
+2271, Is there a website that sums up in what are specialized each US universities?
+2272, How is the election of a new Pope announced to the world ?
+2273, What baseball team was the first to make numbers part of their uniform ?
+2274, Why are organ transplants more successful today ?
+2275, What D.H. Lawrence novel was originally titled Tenderness ?
+2276, What is literary criticism ?
+2277, Doesn't R&D  mean Research and Development?
+2278, What are pomegranates ?
+2279, When was John D. Rockefeller born ?
+2280, Is there any possibility of Indo Pak war after India's surgical strike?
+2281, When did the original Howdy Doody show go off the air ?
+2282, What is genocide ?
+2283, What is the minimum number that can be got by using exactly 5 sixes?
+2284, What drink is the best thirst-quencher ?
+2285, What are field effect transistors ?
+2286, What is the biggest amount that can be got by using exactly 5 twos?
+2287, How do I work with machine learning researchers after graduation?
+2288, Is there any free app to listen and download music offline for android?
+2289, Which is the smallest number we can get using at most 10 eights?
+2290, Where did guinea pigs originate ?
+2291, What famous husband-and-wife team did radio ads for Blue Nun wine ?
+2292, Is there a difference between Jewish communities and Jewish believers in Jesus?
+2293, Which high schools are included in the South Florida Ice Hockey league ?
+2294, Is there any c++ compiler for Android on play store?
+2295, What is the medical condition of hypertension ?
+2296, Does AND  mean Academy of Nutrition and Dietetics (formerly American Dietetic Association)?
+2297, What future Soviet dictator was training to be a priest when he got turned on to Marxism ?
+2298, Doesn't APGAR  mean American Pediatric Gross Assessment Record (a backronym)?
+2299, What 's the symbol for the zodiacal sign Gemini ?
+2300, What European country abandoned postage stamps in 1923 because printing them cost more than their face value ?
+2301, What is the smallest numeral that can be got by using exactly 5 ones?
+2302, How many Americans have HIV ?
+2303, Why is Timbaland famous?
+2304, What is Rona Barrett 's married name ?
+2305, What 's the name of a hotel in Indianapolis ?
+2306, What are bottle caps with presidents ' pictures inside worth ?
+2307, What are the winter weather conditions like in Cincinnati  OH?
+2308, How do you get to the top of the Eiffel Tower ?
+2309, Is there any writing workshop or classes are being organized in bhubaneswar?
+2310, Is there not a difference between native mini displayport and just mini displayport on Macbook air?
+2311, When was the Parthenon built ?
+2312, Why was the zipper invented ?
+2313, Is there a dna triple helix?
+2314, How many copies of an album must be sold for it to be a gold album ?
+2315, How many tenths of the Earth 's surface lie under water ?
+2316, Do tourists like to visit Cusco ?
+2317, How can anyone tell if a female had sexual intercourse ?
+2318, Is that woman a carpenter or a scientist?
+2319, What city houses the U.S. headquarters of Procter and Gamble ?
+2320, Is there not any Leeching website (e.g. leech.ninja) that support RTMP videos?
+2321, Which is the smallest amount we can get using at most 10 threes?
+2322, Is that girl an artist or an architect?
+2323, What river runs through Rowe   Italy ?
+2324, Is there not any certification for Angular JS?
+2325, Is that woman a celebrity or a convict?
+2326, How can you define time ?
+2327, Why are sometimes your hands cold   but the rest of you isn 't ?
+2328, How much would a black-and-white 1-cent stamp be worth   Thomas Jefferson on it   ?
+2329, Is that man not a sportsperson?
+2330, What is `` the great American family cereal '' ?
+2331, What Indian tribe is F Troop perpetually doing battle with ?
+2332, Which is the maximum numeral we can get using at most 10 eights?
+2333, Who played for the Chicago Bears   Houston Oilers and Oakland Raiders in a 26-year pro football career ?
+2334, What is AOA ?
+2335, Is she not a convict?
+2336, Who wrote The Secret Life of Walter Mitty ?
+2337, Name a country that is developing a magnetic levitation railway system ?
+2338, Doesn't Coimbatore  lie in India?
+2339, Does Aizawl  lie in India?
+2340, What Dickens novel has David carrying the message `` Barkis is willin '' to Peggy ?
+2341, Where can I find a world atlas map online at no charge ?
+2342, How long does a dog sleep ?
+2343, Is that boy an engineer?
+2344, Doesn't CCG  mean Children's Cancer Group?
+2345, What was the first Sam Spade novel ?
+2346, Does Bordj El Kiffan  lie in Algeria?
+2347, What is the maximum integer that can be got by using exactly 5 fours?
+2348, What can I comment to my girlfriend's pictures?
+2349, Is that boy a doctor or a sportsperson?
+2350, Doesn't CFCT  stand for Cash Flow Cycle Time?
+2351, What 's the biggest-selling U.S. magazine aimed at a black audience ?
+2352, Which is the highest numeral we can get using at most 10 threes?
+2353, Which of the following celebrities was not born in Philadelphia ?
+2354, What record company was formed by Herb Alpert and Jerry Moss ?
+2355, What medium is Stuart Hamblen the first singing cowboy in ?
+2356, Which is the minimum integer we can get using at most 10 threes?
+2357, What is the smallest fraction that can be got by using exactly 5 twos?
+2358, Doesn't R&D  stand for Research and Development?
+2359, Where does the U.S. rank among world countries in area ?
+2360, What was Nine Tailors   the television show from 1974   about ?
+2361, Is there any evidence that aliens visited our planet?
+2362, What country claimed Rubens   Van Dyck and Bruegel as citizens ?
+2363, Is there a way to decrease your height?
+2364, Is there any factual basis in evidence of psychic abilities?
+2365, What do humans catch zoonose diseases from ?
+2366, What is RE ?
+2367, What is the birthstone of October ?
+2368, What is the best presentation software for you tube video making (both paid and free)?
+2369, How many tiles did the Space Shuttle Columbia lose on its second flight ?
+2370, Who was the star of Leave It to Beaver ?
+2371, What will Bill Clinton be called if Hillary is elected?
+2372, Is there any country which follows Indian culture completely other than India?
+2373, Who is Zebulon Pike ?
+2374, How does Quora quickly mark questions as needing improvement?
+2375, Is she not a carpenter?
+2376, What was Thatcher 's approval rating after 10 years in power ?
+2377, How can I get someone 's email address ?
+2378, What is CAO ?
+2379, How do I tie dye clothes ?
+2380, How many Leos have been Pope ?
+2381, What was the worst hurricane ?
+2382, Who is best Indian hacker?
+2383, Is that girl a carpenter or a scientist?
+2384, How can I get rich quick ?
+2385, Why did the Shea & Gould law firm leave Los Angeles ?
+2386, When did Jaco Pastorius die ?
+2387, What after-dinner treat was invented in 1916 at the George Jung noodle factory in Los Angeles ?
+2388, What can I do to get into an Ivy League school ?
+2389, How many people own pets ?
+2390, What is the smallest sum that can be got by using exactly 5 fours?
+2391, Who came up with the name   El Nino ?
+2392, What ocean did the Titanic sink in ?
+2393, What university football team did O.J. Simpson take to the Rose Bowl ?
+2394, Is there a place for all startups hiring talents?
+2395, Is there any way to cap data for a limited time period  like my data turns off automatically after 5 a.m?
+2396, Who invented the telephone ?
+2397, Is there not a book about words in English with Germanic (i.e. Saxon) roots?
+2398, What are the lyrics to `` Smelly Cat '' ?
+2399, Is there a technique to read book faster?
+2400, How hot does the inside of an active volcano get ?
+2401, What river does the Grand Coulee Dam dam ?
+2402, Doesn't CAMTS  mean Commission on Accreditation of Medical Transport Systems?
+2403, Who wrote the hymn `` Amazing Grace '' ?
+2404, What is the origin of the word   magic ?
+2405, Do tourists like to visit Ambala ?
+2406, Doesn't CPME  stand for Standing Committee of European Doctors?
+2407, What Mary Tyler Moore Show regular came into the world as Tadeus Wladyslaw Konopka ?
+2408, Is there not a job board site where employers hire and sponsor visas for employees internationally?
+2409, How many layers does a bottle of Yoo-Hoo settle into ?
+2410, What city is served by Tempelhol Airport ?
+2411, Don't tourists like to visit Andong ?
+2412, Who is the only president to serve 2 non-consecutive terms ?
+2413, Why are there no white lines on pro footballs ?
+2414, Where can I find a lesson plan for teaching the metric system conversion to American standard ?
+2415, Where are good science sites on the Internet ?
+2416, What was the name of the Confederate mounted guerrilla group with which Jesse James and Coleman Younger had ridden ?
+2417, Doesn't Aleppo  belong to Syria?
+2418, What color are the castellated walls of the Kremlin ?
+2419, How should I stop thinking about someone?
+2420, Is that boy not a scientist?
+2421, Which is the largest numeral we can get using at most 10 threes?
+2422, What invention does the principle of conservation of energy make impossible ?
+2423, Is there a working Nintendo 3DS emulator for PC or Android?
+2424, Who will be the new American president?
+2425, How many gallons of water are there in a cubic foot ?
+2426, Who is the actress known for her role in the movie `` Gypsy '' ?
+2427, Which infectious disease is the world 's deadliest ?
+2428, Is that woman an artist?
+2429, What is the second hardest substance ?
+2430, Does Brescia  belong to Italy?
+2431, What was the name of the peace agreement imposed on Germany after World War I ?
+2432, What is bandwidth ?
+2433, What country boasts the southernmost point in continental Europe ?
+2434, What are some examples of how to describe a person in a positive light?
+2435, What were the ceremony traditions like during the Elizabethian times ?
+2436, What was the name of Hitler 's unsuccessful attempt to overthrow the Bavarian government in Munich in 1923 ?
+2437, What 's the longest river in Canada ?
+2438, Name the Ranger who was always after Yogi Bear .
+2439, Who is the son-in-law of Sen. Everett Dirkson who was also a senator in the '70 's ?
+2440, What is a tsunami ?
+2441, Don't tourists like to visit Fuchu ?
+2442, How can I register my website in Yahoo for free ?
+2443, What is EAR ?
+2444, Is there any consultancy which takes money and get you placed?
+2445, Which were some of the bad experiences you had in life?
+2446, What actor first portrayed James Bond ?
+2447, What is a Mexican hairless ?
+2448, Which is the minimum fraction we can get using at most 10 twos?
+2449, Is that gentleman an engineer or a convict?
+2450, If I dug a huge hole in the ground in a straight line what would happen when I reach the opposite side of the Earth?
+2451, How can I consult a good free online astrologer?
+2452, How much money does the Sultan of Brunei have ?
+2453, What is probability theory ?
+2454, What is the biggest integer that can be got by using exactly 5 ones?
+2455, Who is the mathematician that won the Noble Prize for Literature in 1950 ?
+2456, Is there any way I can get a list of all of my Gmail accounts?
+2457, What is a prism ?
+2458, What makes a perfect cup of coffee?
+2459, Is that girl a machine learning professional or a sportsperson?
+2460, What do you feel is the purpose of life?
+2461, Can you play Asian Playstation 4 games on a European Playstation 4?
+2462, Doesn't SCOAP  stand for Surgical Care and Outcomes Assessment Program?
+2463, How can one serve humanity?
+2464, What is the population of Ohio ?
+2465, What is the Home Rule Act ?
+2466, Who are some famous people with low IQs?
+2467, What do bats eat ?
+2468, Which is the maximum integer we can get using at most 10 zeros?
+2469, What monastery was raided by Vikings in the late eighth century ?
+2470, What are the environmental influences on plant genetics ?
+2471, What is the smallest amount that can be got by using exactly 5 sixes?
+2472, Who is the creator of `` The Muppets '' ?
+2473, At Christmas time   what is the traditional thing to do under the mistletoe ?
+2474, Name the first Russian astronaut to do a spacewalk .
+2475, Doesn't CAO  mean Canadian Association of Optometrists?
+2476, Who discovered electricity ?
+2477, What country does Ileana Cotrubas come from ?
+2478, What is cache memory ?
+2479, Why can't steel and aluminum be welded together?
+2480, What is the average speed of the horses at the Kentucky Derby ?
+2481, Which is the worst place to go in  Fuzhou  Jiangxi ?
+2482, What is the smallest amount that can be got by using exactly 5 twos?
+2483, Why do men snore ?
+2484, What Caribbean island is northeast of Trinidad ?
+2485, What is RCPA ?
+2486, Where can I find a review of Nightmare on Elm Street in a film journal ?
+2487, Where can I find the best Security Cameras?
+2488, Does NHS  mean National Health Service?
+2489, Does Bally  belong to India?
+2490, What color tennis balls are used at Wimbledon ?
+2491, Does AAP  mean American Academy of Pediatrics?
+2492, What is the exchange rate between England and the U.S. ?
+2493, What businesses in Alaska were affected by the Exxon Valdez oil spill ?
+2494, Is she a doctor or an architect?
+2495, CNN began broadcasting in what year ?
+2496, Which is the biggest fraction we can get using at most 10 fours?
+2497, Is there not a difference in taste between vanilla extract and vanilla aroma?
+2498, What information can you get me on Fairground Park in St. Louis
+2499, What U.S. President was the first to breed mules ?
+2500, Does Eluru  lie in India?
+2501, Doesn't ASCEPT  mean Australasian Society of Clinical & Experimental Pharmacologists and Toxicologists?
+2502, How many hearts does an octopus have ?
+2503, Does CIA  stand for Certified Internal Auditor?
+2504, What is the best way to travel in Japan ?
+2505, What is the historical relationship of Catholic Church and bingo ?
+2506, Is there not a good chance Bernie Sanders will run for President in 2020?
+2507, What 's the largest U.S. city on the Great Lakes ?
+2508, What is the smallest sum that can be got by using exactly 5 eights?
+2509, Why does it snow ?
+2510, What kind of creatures are black   yellow   and brown bullheads ?
+2511, Is there not infinite energy in zero point energy or it is just a mathematical result with no physical existence?
+2512, What son of a 15-year-old Mexican girl and a half-Irish father became the world 's most famous Greek ?
+2513, How did Rocky Marciano die ?
+2514, Where is the location of the Orange Bowl ?
+2515, How many people are there in the world ?
+2516, Who died with more than 1   000 U.S. patents to his credit ?
+2517, How do storms form ?
+2518, What are some of the best smartphones technology gadgets?
+2519, Are there any websites like Quora?
+2520, What does BMW stand for ?
+2521, How did Socrates die ?
+2522, What city has the two steepest streets in the U.S. ?
+2523, Which is the worst place to go in  Cangzhou ?
+2524, As of 2015  what is the future of iOS development?
+2525, Which is the biggest integer we can get using at most 10 nines?
+2526, Does ASTRO  mean ASTRO (American Society for Radiation Oncology)?
+2527, What are Mutual funds?
+2528, Is that boy an architect?
+2529, Does CNA  mean Certified Nursing Assistant?
+2530, Who played Emperor Palpatine in Star Wars ?
+2531, What state has the most Indians ?
+2532, What year did the first issue of `` Playboy '' come out ?
+2533, What were the achievements of Richard Nixon ?
+2534, How do you get bubblegum out of carpet ?
+2535, What time of day did Emperor Hirohito die ?
+2536, Is there a way to use Excel shortcuts with Gmail?
+2537, What is the biggest integer that can be got by using exactly 5 sevens?
+2538, What British general surrendered to the colonial army at Saratoga ?
+2539, What is the origin of the first name ` Breony ' ?
+2540, Is there not a way to get Jake Williams off my feed?
+2541, What is the biggest sum that can be got by using exactly 5 sevens?
+2542, What is the greatest numeral that can be got by using exactly 5 sevens?
+2543, Does Albacete  belong to Spain?
+2544, Does Aguascalientes  lie in Mexico?
+2545, What is the lowest level of the American judiciary ?
+2546, Is there anyone up for the ICC T20 fantasy cricket league?
+2547, Is there any uniform or some dress restriction for boys in IIIT Allahabad for freshers?
+2548, Doesn't AANS  stand for Australian Army Nursing Service?
+2549, What is the biggest number that can be got by using exactly 5 sevens?
+2550, Which is the greatest numeral we can get using at most 10 zeros?
+2551, Is there any site where I can share my thoughts about SEO  blogging etc. and get feedback on it?
+2552, Doesn't CPME  mean Standing Committee of European Doctors?
+2553, Which is the highest sum we can get using at most 10 zeros?
+2554, When is a good time to teach your children how to swim?
+2555, Where is the Kentucky Horse Park located ?
+2556, What is porphyria ?
+2557, What is deadrise   nautical   ?
+2558, How can we learn c programming?
+2559, What does the `` c '' stand for in the equation E=mc2 ?
+2560, What is the student population at the University of Massachusetts in Amherst ?
+2561, Is that boy a sportsperson or a convict?
+2562, Who is Robin Williams ?
+2563, How did Janice Joplin die ?
+2564, Is there any actual proof of aliens?
+2565, Does ACR  stand for American College of Rheumatology?
+2566, Don't tourists like to visit Duque de Caxias ?
+2567, What is the primary language of the Philippines ?
+2568, What is Hawaii 's state flower ?
+2569, Where was Poe born ?
+2570, What is the plural of gulf ?
+2571, What 's the term for a bet before cards are dealt ?
+2572, Who is the leader of Brunei ?
+2573, What is the alphabet for Latin ?
+2574, Is there any way to avoid being hypnotized?
+2575, Is there not any way to add apps in iPod Nano?
+2576, Who was the first American poet to win the Nobel Prize for literature   in 1948 ?
+2577, What is the maximum sum that can be got by using exactly 5 sixes?
+2578, Is there not efficiency difference between air strikes conducted by U.S. and Russia in Syria?
+2579, Where did Honecker rule ?
+2580, What is the highest fraction that can be got by using exactly 5 sevens?
+2581, What is the name of the 1919 occurrence in which British troops killed over 3 unarmed Indian protestors ?
+2582, Where can I find information on becoming a journalist ?
+2583, What is the oldest profession ?
+2584, Who reports the weather on the `` Good Morning America '' television show ?
+2585, What state does Martha Stewart live in ?
+2586, Is Baoshan  the capital of China?
+2587, Is there not a gamer who plays NERVE except Double Dog?
+2588, Who shot Billy the Kid ?
+2589, How old is the Italian artist Maurizio Pellegrin ?
+2590, What soft drink first appeared in the Old Corner Drug Store in Waco   Texas   in 1885 ?
+2591, Doesn't CCRN  stand for Certification for adult  pediatric and neonatal critical care nurses?
+2592, Is there life on Mars?
+2593, How long was Mao 's 1930s Long March ?
+2594, What are dingoes ?
+2595, Is there not a podcast that gives you a daily wrapup of the US stock market and the world economy?
+2596, What 1920s cowboy star rode Tony the Wonder Horse ?
+2597, Is there any way to go some other job opportunity in any some other fields after finished the general nursing and midwifery?
+2598, What is the future for iOS Developers?
+2599, Does El Progreso  lie in Honduras?
+2600, Is there not any SEO expert?
+2601, What was Darth Vader 's son named ?
+2602, How many emperors were there in the Roman Empire ?
+2603, Why is Mexico City dangerous?
+2604, What is the weakest bone in the body ?
+2605, Is that man not a doctor?
+2606, Is there not any method to do 4*4 Rubiks Cube blindfold?
+2607, Which is better  Windows 32 bit or 64 bit Windows 8.1?
+2608, What was Mae West 's last film ?
+2609, What became the biggest cash crop in the U.S. in 1983   surpassing corn ?
+2610, Is that girl a machine learning professional?
+2611, What year did Oklahoma become a state ?
+2612, What is money made of ?
+2613, Do tourists like to visit Ambon ?
+2614, What was an `` Asiento '' ?
+2615, Doesn't CEO  stand for Chief executive officer?
+2616, What is a fear of women ?
+2617, Is there any dress code?
+2618, Doesn't CDM  mean Change and Data Management?
+2619, Name the country of giants twelve times the size of man in `` Gulliver 's Travels . ''
+2620, Is there not any children story book shop in Australia?
+2621, What is the name of the firm that makes Spumante ?
+2622, Does CCG  stand for Children's Cancer Group?
+2623, What creature is the absolute fastest in moving in the world   birds   mammals   etc.   ?
+2624, Does CSR  stand for Corporate social responsibility?
+2625, Is there any chance I can get a job after being rejected?
+2626, How many degrees cooler is the inside of a cucumber than the air outside ?
+2627, Doesn't CTO  stand for Chief Technology Officer?
+2628, Is there a way to use stem cells to grow your penis larger?
+2629, Doesn't Deyang  lie in China?
+2630, What fastener did Whitcomb Judson patent in 1893 ?
+2631, What card game has variations called Canfield   Klondike and Spider ?
+2632, Is that woman an architect or a convict?
+2633, Is there another way to revise for a test without stressing yourself out with piles of books?
+2634, What is the Moulin Rouge ?
+2635, Is there not a cure for cancer?
+2636, Doesn't NPSA  stand for National Pharmaceutical Services Association?
+2637, Is Auckland  the capital of New Zealand?
+2638, Is there not an NRI quota in the IIMs in India?
+2639, How many feet more than 2 is the average height of the Great Wall of China ?
+2640, Doesn't CRM  mean Customer Relationship Management?
+2641, What fraction of a beaver 's life is spent swimming ?
+2642, What country was Sir Edmund Hillary born in ?
+2643, Doesn't AAOS  stand for American Academy of Orthopaedic Surgeons?
+2644, How do you tell your parents you are dating an older man ?
+2645, Who lived on the shores of the Gitchee Gumee River ?
+2646, What was the name of Baretta 's cockatoo ?
+2647, What river flows past the Temple of Karnak ?
+2648, Who was the most famous food editor of The New York Times ?
+2649, Who was the 23rd president of the United States ?
+2650, What are some good cheese substitutes for Havarti cheese?
+2651, What Asian leader was known as The Little Brown Saint ?
+2652, Does ROE  mean Return on Equity?
+2653, How many member states are in the UN ?
+2654, What island group is Guadalcanal a part of ?
+2655, What is a nanometer ?
+2656, Who won the 1967 Academy Award for Best Actor ?
+2657, How many astronauts have been on the moon ?
+2658, What is the highest amount that can be got by using exactly 5 sixes?
+2659, What is the frequency of VHF ?
+2660, Is there not a war coming?
+2661, Name the first private citizen to fly in space .
+2662, Is that girl an artist or a scientist?
+2663, Which is the maximum sum we can get using at most 10 nines?
+2664, Where can I buy movies on videotape online ?
+2665, What is a glory hole ?
+2666, Is there something that can travel faster than light?
+2667, What is a green bog ?
+2668, What is CMO ?
+2669, Who created the World Wide Web   WWW ?
+2670, Does Eugene  belong to United States?
+2671, What country in Latin America is the largest one ?
+2672, Does CFC  stand for Consumption of fixed capital?
+2673, Is there not a way to extract the automatically generated subtitles in YouTube?
+2674, What state in the United States covers the largest area ?
+2675, Is there an easy way to sync many gigabytes of files spread over three Google accounts?
+2676, What is the most efficient way to start a barbeque ?
+2677, Do tourists like to visit Dagupan ?
+2678, Is that woman an artist or a sportsperson?
+2679, What woman pitcher has struck out Ted Williams and Hank Aaron ?
+2680, Which is the largest amount we can get using at most 10 fives?
+2681, Is there something wrong with science?
+2682, What Judith Rossner novel was made into a film starring Diane Keaton ?
+2683, Does Belford Roxo  lie in Brazil?
+2684, What is RCN ?
+2685, What is the meaning of the name Kathryn ?
+2686, Is that man a celebrity?
+2687, Who was the first Russian astronaut to walk in space ?
+2688, Doesn't EACs  stand for Export Assistance Centers?
+2689, What is your best 2016 movie?
+2690, What sign is The Water Carrier the zodiacal symbol for ?
+2691, What are junior leaders in Indian army?
+2692, Do tourists like to visit Daegu ?
+2693, What are your comments on this picture?
+2694, What country imposed the Berlin Blockade in 1948 ?
+2695, How do you do a bibliography with an unknown author ?
+2696, How tall is the Matterhorn ?
+2697, Where is Inoco based ?
+2698, Is she a sportsperson?
+2699, Does NKC  mean Northwest Kidney Centers?
+2700, Doesn't ANA  mean American Nurses Association?
+2701, What is CSA ?
+2702, What is an auto-commentary ?
+2703, What French province is cognac produced in ?
+2704, What is the least amount that can be got by using exactly 5 nines?
+2705, Is that girl a scientist or a convict?
+2706, What is the difference between the words burglary and robbery?
+2707, What are the differences between larceny and robbery?
+2708, What are the funniest jokes / stories you ever heard?
+2709, What 's the name of the Wilkes plantation in Gone with the Wind ?
+2710, Does AOA  stand for American Optometric Association?
+2711, Does English Bazar  lie in India?
+2712, Doesn't Bourg-en-Bresse  lie in France?
+2713, Is there an automatic Honda Civic Si?
+2714, Does CTO  mean Chief Technology Officer?
+2715, What future movie treat was introduced to American colonists in 1603 by Native Americans ?
+2716, Why was Henry Ford 's first automobile calleda Model T & his second type of automobile   introduced in 1928   called a Model A ?
+2717, When is hurricane season in the Caribbean ?
+2718, What part did John Peter Zenger play in the deveopment of the newspaper in America ?
+2719, What is gymnophobia ?
+2720, What 's the name of Jacques Cousteau 's research ship ?
+2721, When did North Carolina enter the union ?
+2722, What 's the maximum number of clubs a golfer may use in a round ?
+2723, Where did George of the Jungle live ?
+2724, Who is Shirley MacLaine ?
+2725, Doesn't COO  stand for Chief Operating Officer?
+2726, When is the Tulip Festival in Michigan ?
+2727, Where can I find out the top 1 singles ?
+2728, What is STSC ?
+2729, Is there any way India successfully replicate Silicon Valley on home soil?
+2730, What NFL team did Vince Lombardi end his coaching career with ?
+2731, What occupation has the highest divorce rate ?
+2732, What Aesop 's fable has the moral   `` The race is not always to the swift. Slow and steady is bound to win '' ?
+2733, What famous coach said `` if you can 't beat 'em in the alley   you can 't beat 'em on the ice '' ?
+2734, Who is Peter Weir ?
+2735, Where did Dylan Thomas die ?
+2736, Is there compensation between postal systems for international mail?
+2737, Is that man an artist or an architect?
+2738, What causes asthma ?
+2739, Is there not any difference between the Hindi words naksha and manchitra  or are they the same?
+2740, Where can I find an Ask An Expert site ?
+2741, Is that woman a carpenter or a machine learning professional?
+2742, What is SCOAP ?
+2743, What was the date of CNN 's first broadcast ?
+2744, Is that gentleman a scientist or a sportsperson?
+2745, Which is the minimum amount we can get using at most 10 ones?
+2746, Is it okay to fire someone via email?
+2747, Is there any reward to keep answering Quora questions beside intrinsic motive?
+2748, Why do they sterilize the needle for lethal injection ?
+2749, Does ABMS  stand for American Board of Medical Specialties?
+2750, Does Beauvais  lie in France?
+2751, Which came first   according to Genesis 1   2   22 - the chicken or the egg ?
+2752, What is CESMA ?
+2753, Is that lady a doctor or an architect?
+2754, What area of games programming is most mathematically involved?
+2755, How can I get a CCT diagram ?
+2756, Who was the 1st U.S. President ?
+2757, Name a film that has won the Golden Bear in the Berlin Film Festival ?
+2758, How much would a black-and-white 1-cent stamp be worth   Thomas Jefferson on it ?
+2759, Who was the first black woman to star in the Folies Bergeres ?
+2760, When did Mount St. Helens last erupt ?
+2761, What constellation is known as The Water Bearer ?
+2762, Is that boy a carpenter?
+2763, What is the primary language in Iceland ?
+2764, Is there not any cure for Crohn's disease?
+2765, Is that lady a carpenter or a machine learning professional?
+2766, Who would win the Dovahkiin from Skyrim or Kylo ren?
+2767, Which major diamond producer is based in South Africa ?
+2768, When did Hawaii become a state ?
+2769, Is that boy a doctor or a scientist?
+2770, What are the top boy names in the U.S. ?
+2771, What is goulash ?
+2772, What sound does Olympia   Washington   overlook ?
+2773, What is the maximum number that can be got by using exactly 5 threes?
+2774, Is there not any question  no one asked in Quora?
+2775, Is that gentleman an architect or a scientist?
+2776, Do Trump voters care that he has reneged all his campaign promises?
+2777, What 's been the ruin of many a poor boy in New Orleans ?
+2778, Which is the highest number we can get using at most 10 eights?
+2779, What 's the common name for a Japanese dwarf tree ?
+2780, What is the all-time stock high of Apple Computer   and where can I find this information ?
+2781, What is the proof that houseplants metabolize carcinogens ?
+2782, Is there is any availability to do forensic sciences bsc in distance?
+2783, What is the criterion for being legally blind ?
+2784, Who are some of great coders from Tamil Nadu?
+2785, Doesn't ETA  stand for Estimated Time of Arrival?
+2786, Isn't Austin  the capital of United States?
+2787, Where was Christopher Columbus born ?
+2788, What was J.F.K. 's wife 's name ?
+2789, What 's the favorite food of dragonflies ?
+2790, What is the smallest fraction that can be got by using exactly 5 sevens?
+2791, How many students attend the University of Massachusetts ?
+2792, What 's the largest U.S. agricultural crop by weight ?
+2793, Does CX  stand for Customer Experience?
+2794, Is there not any way to recover e-mails that were deleted from a Gmail account?
+2795, What is the word for love of pain or abuse ?
+2796, What is the biggest amount that can be got by using exactly 5 threes?
+2797, What do Mormons believe ?
+2798, Is there any quick method to loose belly fat?
+2799, Is there any way I can earn money online without any kind of investment?
+2800, Is there not any difference between an array of pointers and the pointer to an array in C?
+2801, How did water appear on the earth ?
+2802, What do players try to do when the music stops in a game of musical chairs ?
+2803, What is ECB ?
+2804, Is there a way to prevent Google Chrome from opening new tabs when clicking certain links?
+2805, How do I start writing again?
+2806, What Chilean president was killed in a 1973 coup d 'etat ?
+2807, What is the greatest number that can be got by using exactly 5 zeros?
+2808, What are tonsils for ?
+2809, Is there any expert disagreement on the same facts in the fields of Psychology or math?
+2810, How can you become an FBI agent ?
+2811, What sentences use all 26 letters without any repeats?
+2812, Is there someone of senior legal experience in the UK who would review a summary and advise what next?
+2813, What is the biggest fraction that can be got by using exactly 5 sixes?
+2814, Is he not a carpenter?
+2815, Is there not any other channel like Funda Curry - TVF Recycle bin?
+2816, Does CFM  stand for Certified Financial Manager?
+2817, What is an annuity ?
+2818, Where are the tropical rain forest distributions ?
+2819, Which of the following celebrities started his show-biz career as a disc jockey ?
+2820, How much did a knight 's armor weigh ?
+2821, Kosovo is a province of what country ?
+2822, The corpus callosum is in what part of the body ?
+2823, How do I find info about rice importers in the world ?
+2824, What store does Martha Stewart advertise for ?
+2825, What is the smallest amount that can be got by using exactly 5 fours?
+2826, What is most important in life - money or values?
+2827, Is that boy a doctor or an engineer?
+2828, What cross-platform should I choose while developing a mobile application for an enterprise?
+2829, Which is the smallest integer we can get using at most 10 threes?
+2830, What is ouzo ?
+2831, Where on the body is a mortarboard worn ?
+2832, What United States city produces the most oil ?
+2833, What 's the official animal of Canada ?
+2834, What 's the difference between J.D. and LL.M. ?
+2835, What European country is home to the beer-producing city of Budweis ?
+2836, Is there not any script to allow me to save all my uploaded YouTube videos?
+2837, Is there not any difference between CANoe and CANalyzer tool?
+2838, Where is the Loop ?
+2839, Do tourists like to visit Barquisimeto ?
+2840, Doesn't AACN  stand for American Association of Critical-Care Nurses?
+2841, What 's the most commonly-spoken language in Belgium ?
+2842, What do we call the imaginary line along the top of the Rocky Mountains ?
+2843, When did French revolutionaries storm the Bastille ?
+2844, Why were red M&Ms discontinued then brought back ?
+2845, What is the minimum number that can be got by using exactly 5 zeros?
+2846, Is Augusta  the capital of United States?
+2847, Is there possibility of life on other planets?
+2848, Which is the highest fraction we can get using at most 10 twos?
+2849, Whose husbands have included Conrad Hilton Jr.   and Michael Wilding ?
+2850, Is that person an artist or a carpenter?
+2851, Is there any evidence of alien life in space?
+2852, What kind of poisoning is known as plumbism ?
+2853, What date did Neil Armstrong land on the moon ?
+2854, What makes a great cup of coffee great?
+2855, Is there not an app to support 4G in 3G mobile?
+2856, What canal does the Thatcher Ferry Bridge span ?
+2857, What is RFI ?
+2858, What does pH stand for ?
+2859, What was the name of the plane Lindbergh flew solo across the Atlantic ?
+2860, Is there not a way to check exactly what time USPS delivers mail at your house on a daily basis?
+2861, What country boasts Ismail 's Palace and the Palace of King Farouk ?
+2862, Is that woman a carpenter?
+2863, Where are the Haversian canals ?
+2864, Is that man an engineer or a machine learning professional?
+2865, Don't tourists like to visit Fu'an ?
+2866, Stuart Hamblen is considered to be the first singing cowboy of which medium ?
+2867, What is the origin of the proverb `` A stitch in time saves nine '' ?
+2868, In what city does Maurizio Pellegrin now live ?
+2869, Doesn't STSC  mean Soft tissue sarcoma committee?
+2870, Where did Howard Hughes die ?
+2871, Which is the largest fraction we can get using at most 10 eights?
+2872, Which is the highest sum we can get using at most 10 sixes?
+2873, How can SQL queries be improved ?
+2874, Name the scar-faced bounty hunter of The Old West .
+2875, Which is the highest sum we can get using at most 10 eights?
+2876, Who was the first American in space ?
+2877, What were the trials called which followed World War II ?
+2878, What 19th-century painter died in the Marquesas Islands ?
+2879, What does it feel like to be beautiful?
+2880, Is there scientific evidence that watching too much porn is bad?
+2881, What are the Benelux countries ?
+2882, What novel did Ian Fleming introduce James Bond in ?
+2883, Does Alajuela  belong to Costa Rica?
+2884, Doesn't Envigado  lie in Colombia?
+2885, Does AOA  stand for Australian Orthopaedic Association?
+2886, Is there not any application for Windows Phone  which analyses the SMS and creates the expense sheet  like Walnut application in Android?
+2887, What is the minimum fraction that can be got by using exactly 5 fours?
+2888, What is Alice Cooper 's real name ?
+2889, Where can I get U.S. economic statistics ?
+2890, What year did the Titanic sink ?
+2891, Is that gentleman an artist or an architect?
+2892, What continent is Argentina on ?
+2893, What sport can a free-legged pacer compete in ?
+2894, Does CSI  stand for Continual Service Improvement?
+2895, Is there not a maximum limit for a transaction via Net Banking through an SBI account?
+2896, Isn't Amarah  the capital of Iraq?
+2897, Is there not a way to create an icon/shortcut on the iPhone iOS 7 home screen that links directly to an specific Google Docs file (a spreadsheet) on Google Drive?
+2898, When was the first stamp issued ?
+2899, Which is the minimum fraction we can get using at most 10 fives?
+2900, Which is the biggest numeral we can get using at most 10 eights?
+2901, Is that gentleman not a sportsperson?
+2902, Who invented silly putty ?
+2903, Is that youth an engineer or a scientist?
+2904, Isn't Florencia  the capital of Colombia?
+2905, Does AAMC  stand for Australian Army Medical Corps?
+2906, How many Vietnamese were there in the Soviet Union ?
+2907, What is Valentine 's Day ?
+2908, Is there not a shortage of STEM workers in the US or not?
+2909, How was the ACLU formed ?
+2910, Is there any website available which provides a free PDF link to books like Alchemist or Right Here Right Now  Indian romantic novels?
+2911, What is the name of the largest water conservancy project in China ?
+2912, What were the first words spoken on a film sound track ?
+2913, Where are there aborigines ?
+2914, Is that person a machine learning professional or a celebrity?
+2915, Is there not any way for a student to get an internship at Microsoft  or at Facebook from high-school?
+2916, Which is the worst place to go in  El Monte ?
+2917, Hazmat stands for what ?
+2918, Is that girl an artist or a machine learning professional?
+2919, What comedian created a punch-drunk pugilist named Cauliflower McPugg ?
+2920, What is EFTPOS ?
+2921, Is that boy a doctor or a convict?
+2922, What does the abbreviation SOS mean ?
+2923, How many trees go into paper making in a year ?
+2924, Doesn't AAP  mean American Academy of Pediatrics?
+2925, What kind of sport is often associated with hooligans ?
+2926, Who else was considered for the role of Luke Skywalker when George Lucas was casting for Star Wars ?
+2927, What star-faring race brought about the Inhumans on Marvel 's Earth ?
+2928, When does the Bible say the seasons started ?
+2929, What is the smallest numeral that can be got by using exactly 5 sixes?
+2930, Are there any competitive coders from Tamil Nadu?
+2931, Why in tennis are zero points called love ?
+2932, Does ACR  stand for American College of Radiology?
+2933, Why do oceans contain salt water instead of fresh water ?
+2934, What month did the Edmund Fitzgerald sink ?
+2935, Why did barvaria join Germany?
+2936, What was Franklin Roosevelt 's program for economic recovery called during the Great Depression ?
+2937, What is the formula to calculate pi ?
+2938, Is she an engineer or a celebrity?
+2939, Who directed the first Woody Woodpecker cartoon ?
+2940, Doesn't Argenteuil  lie in France?
+2941, What two European countries entered the War of American Independence against the British ?
+2942, Who is capable of ending Google's monopoly in search?
+2943, What is the largest fraction that can be got by using exactly 5 threes?
+2944, How did Edith Bunker die ?
+2945, Does CAO  stand for Canadian Association of Optometrists?
+2946, Is there a platform where I can download free music?
+2947, What Is Web Design?
+2948, What is COO ?
+2949, How was Lawrence
+2950, What architect originated the glass house designed the Chicago Federal Center had a philosophy of `` less is more   '' and produced plans that were the forerunner of the California ranch house ?
+2951, What are some tips for building a fire in a fireplace ?
+2952, Is there any architectural complex/center/forum/hub anywhere in the world?
+2953, Is Feira de Santana  the capital of Brazil?
+2954, What fictional character is known as the `` melancholy Dane '' ?
+2955, Is there a universal element?
+2956, What is the history of Spartacus   the Roman slave and gladiator ?
+2957, What is EXP ?
+2958, What is a fear of lice ?
+2959, What is the name of Neil Armstrong 's wife ?
+2960, Which is the biggest numeral we can get using at most 10 fours?
+2961, In Hemingway 's `` Old Man and the Sea   '' what kind of fish does the old man catch ?
+2962, Which is the best place to go in Fukui ?
+2963, What was Suzy Parker doing to earn $1   000 in the early 1950 's ?
+2964, How is Answers.com funded ?
+2965, Does Columbia  belong to United States?
+2966, What is the highest amount that can be got by using exactly 5 ones?
+2967, How does light travel through the void of space if there is no medium for it to ` wave ' or ` pulse ' .
+2968, Is she a scientist or a convict?
+2969, What 's a short ton ?
+2970, What year did Charles Dicken die ?
+2971, What is a wet dream ?
+2972, How much of the silver production is manufactured by independent silversmiths ?
+2973, Where was Lincoln assassinated ?
+2974, Doesn't UNOS  stand for United Network for Organ Sharing?
+2975, Which is the smallest numeral we can get using at most 10 zeros?
+2976, Is there a NRI quota in IIMs in India?
+2977, Is there any difference between NPA and stressed assets?
+2978, What female suspect in the game of Clue is single ?
+2979, In what part of the world is Mozambique ?
+2980, What is the Jewish bible called ?
+2981, Is that person an artist or a machine learning professional?
+2982, Does Chandler  belong to United States?
+2983, Where did the Maya people live ?
+2984, Is that boy a celebrity or a convict?
+2985, Which college did Dikembe Mutombo attend ?
+2986, How long do you have to live in a community to vote ?
+2987, If time started because of the big bang happening then how could the big bang start because there was no time for the big bang to start?
+2988, How many home runs did Lou Gehrig have during his career ?
+2989, Which is the largest number we can get using at most 10 fives?
+2990, What animal has been called The Poor Man 's Cow ?
+2991, In what year did the Bounty mutiny happen ?
+2992, How do I register a trade name in North Carolina ?
+2993, What famous events have happened on March 27 ?
+2994, What are the differences between having BOSE headphones in the ear and around the ear?
+2995, Who 's The King of Swing ?
+2996, Which is the largest integer we can get using at most 10 eights?
+2997, How many pounds are there in a stone ?
+2998, What 's nature 's purpose for tornadoes ?
+2999, What is a dental root canal ?
+3000, What is CEO ?
