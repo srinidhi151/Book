@@ -1,5 +1,6 @@
-# Book
-This repository contains the code for the book entitled "Network Data Analytics-A hands on approach for application development".
+# Network Data Analytics
+This repository contains the code for the book entitled [Network Data Analytics-A hands on approach for application development](https://www.springer.com/gp/book/9783319777993).
+![](cover.png "Book COver")
 
 ### Code contributors
 - [A.M.D. Srinivas](https://github.com/amdsrinivas)
